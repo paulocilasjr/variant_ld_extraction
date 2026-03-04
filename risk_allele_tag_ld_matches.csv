@@ -1,1 +1,347 @@
 riskAllele,label,traitName,tagSNP,r2
+rs2720460,rs2720460-A,Testicular germ cell tumor,rs2069274,0.9673847813023846
+rs2720460,rs2720460-A,Testicular germ cell tumor,rs11946500,0.29628936757373736
+rs2720460,rs2720460-G,Testicular germ cell tumor,rs2069274,0.9673847813023846
+rs2720460,rs2720460-G,Testicular germ cell tumor,rs11946500,0.29628936757373736
+rs2203640,rs2203640-C,Adipsin levels,rs2069274,0.32953151297384276
+rs2203640,rs2203640-C,Adipsin levels,rs11946500,0.9304720656969282
+rs2203640,rs2203640-?,Body size or adipose distribution (multivariate analysis),rs2069274,0.32953151297384276
+rs2203640,rs2203640-?,Body size or adipose distribution (multivariate analysis),rs11946500,0.9304720656969282
+rs58611096,rs58611096-A,Male puberty timing (late vs. average onset facial hair),rs2069274,0.35132296737023594
+rs58611096,rs58611096-A,Male puberty timing (late vs. average onset facial hair),rs11946500,0.7932447312307797
+rs58611096,rs58611096-A,Male puberty timing (age at voice breaking MTAG),rs2069274,0.35132296737023594
+rs58611096,rs58611096-A,Male puberty timing (age at voice breaking MTAG),rs11946500,0.7932447312307797
+rs7656438,rs7656438-T,Alzheimer's disease or gastroesophageal reflux disease,rs2069274,0.98358778
+rs7656438,rs7656438-T,Alzheimer's disease or gastroesophageal reflux disease,rs11946500,0.3103273307476022
+rs4888262,rs4888262-C,Testicular germ cell tumor,rs4887783,0.9532185978299107
+rs4888262,rs4888262-C,Testicular germ cell tumor,rs11149761,0.19135918765675733
+rs4888262,rs4888262-?,Testicular germ cell tumor,rs4887783,0.9532185978299107
+rs4888262,rs4888262-?,Testicular germ cell tumor,rs11149761,0.19135918765675733
+rs4888262,rs4888262-T,Testicular germ cell tumor,rs4887783,0.9532185978299107
+rs4888262,rs4888262-T,Testicular germ cell tumor,rs11149761,0.19135918765675733
+rs7201320,rs7201320-?,Red blood cell count,rs4887783,0.9571885082907127
+rs7201320,rs7201320-?,Red blood cell count,rs11149761,0.19228175439557416
+rs7191665,rs7191665-T,Telomere length (principal component 1),rs4887783,0.9496065783490933
+rs7191665,rs7191665-T,Telomere length (principal component 1),rs11149761,0.19413804873953017
+rs9929496,rs9929496-A,Serum creatinine levels,rs4887783,0.9453255279754934
+rs9929496,rs9929496-A,Serum creatinine levels,rs11149761,0.18952510761833027
+rs9611565,rs9611565-T,Vitiligo,rs11090039,0.3823727976581448
+rs9611565,rs9611565-T,Vitiligo,rs132917,0.8360916362200059
+rs9607782,rs9607782-?,Schizophrenia,rs11090039,0.8076779792722016
+rs9607782,rs9607782-?,Schizophrenia,rs132917,0.26033270500776257
+rs202636,rs202636-T,Asthma,rs11090039,0.3831469790924668
+rs202636,rs202636-T,Asthma,rs132917,0.9050878393186632
+rs5758324,rs5758324-?,Asthma (time to event),rs11090039,0.339150243
+rs5758324,rs5758324-?,Asthma (time to event),rs132917,0.8108500116837587
+rs132906,rs132906-C,Mean reticulocyte volume,rs11090039,0.3820253751416363
+rs132906,rs132906-C,Mean reticulocyte volume,rs132917,0.9149695980390603
+rs9611460,rs9611460-?,Depressive symptoms (MTAG),rs11090039,0.8855646302500882
+rs9611460,rs9611460-?,Depressive symptoms (MTAG),rs132917,0.3489444328705758
+rs132919,rs132919-G,Caffeine consumption from tea,rs11090039,0.4127657352151619
+rs132919,rs132919-G,Caffeine consumption from tea,rs132917,1
+rs9611460,rs9611460-?,Depressive symptoms,rs11090039,0.8855646302500882
+rs9611460,rs9611460-?,Depressive symptoms,rs132917,0.3489444328705758
+rs9607782,rs9607782-?,Schizophrenia (MTAG),rs11090039,0.8076779792722016
+rs9607782,rs9607782-?,Schizophrenia (MTAG),rs132917,0.26033270500776257
+rs5758265,rs5758265-?,Schizophrenia (MTAG),rs11090039,0.9582636316376572
+rs5758265,rs5758265-?,Schizophrenia (MTAG),rs132917,0.3929942259164039
+rs5758343,rs5758343-T,Problematic alcohol use (MTAG),rs11090039,0.3895893064534439
+rs5758343,rs5758343-T,Problematic alcohol use (MTAG),rs132917,0.9159397265982228
+rs5758343,rs5758343-T,Alcohol consumption (drinks per week) (MTAG),rs11090039,0.3895893064534439
+rs5758343,rs5758343-T,Alcohol consumption (drinks per week) (MTAG),rs132917,0.9159397265982228
+rs5758343,rs5758343-A,"Allergic disease (asthma, hay fever or eczema)",rs11090039,0.3895893064534439
+rs5758343,rs5758343-A,"Allergic disease (asthma, hay fever or eczema)",rs132917,0.9159397265982228
+rs2273085,rs2273085-T,Neuroticism,rs11090039,0.9676166189226185
+rs2273085,rs2273085-T,Neuroticism,rs132917,0.4016269472366418
+rs2179744,rs2179744-G,Depressive symptoms,rs11090039,0.9582636316376572
+rs2179744,rs2179744-G,Depressive symptoms,rs132917,0.3929942259164039
+rs2273085,rs2273085-T,Neuroticism (MTAG),rs11090039,0.9676166189226185
+rs2273085,rs2273085-T,Neuroticism (MTAG),rs132917,0.4016269472366418
+rs9607782,rs9607782-A,Autism spectrum disorder or schizophrenia,rs11090039,0.8076779792722016
+rs9607782,rs9607782-A,Autism spectrum disorder or schizophrenia,rs132917,0.26033270500776257
+rs5758265,rs5758265-G,Depressive symptoms (MTAG),rs11090039,0.9582636316376572
+rs5758265,rs5758265-G,Depressive symptoms (MTAG),rs132917,0.3929942259164039
+rs202629,rs202629-T,Cannabis dependence symptom count,rs11090039,0.3768174503353247
+rs202629,rs202629-T,Cannabis dependence symptom count,rs132917,0.894415004
+rs9607782,rs9607782-?,"Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)",rs11090039,0.8076779792722016
+rs9607782,rs9607782-?,"Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)",rs132917,0.26033270500776257
+rs5995992,rs5995992-C,Depression,rs11090039,0.9813237812751481
+rs5995992,rs5995992-C,Depression,rs132917,0.40169348226370194
+rs132904,rs132904-C,Tea consumption,rs11090039,0.4127657352151619
+rs132904,rs132904-C,Tea consumption,rs132917,1
+rs2179744,rs2179744-A,Positive affect,rs11090039,0.9582636316376572
+rs2179744,rs2179744-A,Positive affect,rs132917,0.3929942259164039
+rs2179744,rs2179744-A,Neuroticism,rs11090039,0.9582636316376572
+rs2179744,rs2179744-A,Neuroticism,rs132917,0.3929942259164039
+rs2179744,rs2179744-A,Depressive symptoms,rs11090039,0.9582636316376572
+rs2179744,rs2179744-A,Depressive symptoms,rs132917,0.3929942259164039
+rs2179744,rs2179744-A,Well-being spectrum (multivariate analysis),rs11090039,0.9582636316376572
+rs2179744,rs2179744-A,Well-being spectrum (multivariate analysis),rs132917,0.3929942259164039
+rs926914,rs926914-T,Schizophrenia (MTAG),rs11090039,0.8857309768292353
+rs926914,rs926914-T,Schizophrenia (MTAG),rs132917,0.3571580990632626
+rs727563,rs727563-G,Inflammatory bowel disease,rs11090039,0.3529211150929309
+rs727563,rs727563-G,Inflammatory bowel disease,rs132917,0.8437882026698986
+rs9607782,rs9607782-A,Schizophrenia,rs11090039,0.8076779792722016
+rs9607782,rs9607782-A,Schizophrenia,rs132917,0.26033270500776257
+rs9611519,rs9611519-T,Neuroticism,rs11090039,0.981422748
+rs9611519,rs9611519-T,Neuroticism,rs132917,0.41040379148280853
+rs6002333,rs6002333-T,Eosinophil percentage of white cells,rs11090039,0.42291359802136286
+rs6002333,rs6002333-T,Eosinophil percentage of white cells,rs132917,0.8107945269832882
+rs2234052,rs2234052-G,Lymphocyte percentage of white cells,rs11090039,0.3839858220376011
+rs2234052,rs2234052-G,Lymphocyte percentage of white cells,rs132917,0.8437882026698986
+rs9623320,rs9623320-A,Major depressive disorder,rs11090039,0.9399783469968598
+rs9623320,rs9623320-A,Major depressive disorder,rs132917,0.3738268526060715
+rs2179744,rs2179744-G,Major depressive disorder,rs11090039,0.9582636316376572
+rs2179744,rs2179744-G,Major depressive disorder,rs132917,0.3929942259164039
+rs6002386,rs6002386-A,Highest math class taken,rs11090039,0.3831469790924668
+rs6002386,rs6002386-A,Highest math class taken,rs132917,0.9050878393186632
+rs75723348,rs75723348-T,Alcohol use disorder (consumption score),rs11090039,0.8902627033361241
+rs75723348,rs75723348-T,Alcohol use disorder (consumption score),rs132917,0.35510218572657404
+rs2092563,rs2092563-G,Depression,rs11090039,0.9719679197419319
+rs2092563,rs2092563-G,Depression,rs132917,0.3995768620854209
+rs5758265,rs5758265-?,"Anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)",rs11090039,0.9582636316376572
+rs5758265,rs5758265-?,"Anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)",rs132917,0.3929942259164039
+rs2273085,rs2273085-C,Anxiety,rs11090039,0.9676166189226185
+rs2273085,rs2273085-C,Anxiety,rs132917,0.4016269472366418
+rs9611522,rs9611522-T,Migraine,rs11090039,0.8943178800246345
+rs9611522,rs9611522-T,Migraine,rs132917,0.39602221618271555
+rs4821991,rs4821991-C,Smoking cessation,rs11090039,0.9172694559209066
+rs4821991,rs4821991-C,Smoking cessation,rs132917,0.36337669068846107
+rs202635,rs202635-T,C-reactive protein levels (MTAG),rs11090039,0.4127657352151619
+rs202635,rs202635-T,C-reactive protein levels (MTAG),rs132917,1
+rs136402,rs136402-A,Neurociticism,rs11090039,0.9628019672776773
+rs136402,rs136402-A,Neurociticism,rs132917,0.39517400215232107
+rs4820434,rs4820434-T,Irritable mood,rs11090039,0.84519278
+rs4820434,rs4820434-T,Irritable mood,rs132917,0.4575872955084664
+rs9607771,rs9607771-A,Neurociticism,rs11090039,0.9444566158257851
+rs9607771,rs9607771-A,Neurociticism,rs132917,0.3759355974553962
+rs9607771,rs9607771-A,Feeling worry,rs11090039,0.9444566158257851
+rs9607771,rs9607771-A,Feeling worry,rs132917,0.3759355974553962
+rs9611522,rs9611522-T,Feeling worry,rs11090039,0.8943178800246345
+rs9611522,rs9611522-T,Feeling worry,rs132917,0.39602221618271555
+rs9611486,rs9611486-C,Feeling tense,rs11090039,0.9220911531483719
+rs9611486,rs9611486-C,Feeling tense,rs132917,0.3634145710328459
+rs5758268,rs5758268-A,Experiencing mood swings,rs11090039,0.9582636316376572
+rs5758268,rs5758268-A,Experiencing mood swings,rs132917,0.3929942259164039
+rs9611567,rs9611567-A,Experiencing mood swings,rs11090039,0.40797005949761483
+rs9611567,rs9611567-A,Experiencing mood swings,rs132917,0.8954332607464153
+rs727563,rs727563-G,Crohn's disease,rs11090039,0.3529211150929309
+rs727563,rs727563-G,Crohn's disease,rs132917,0.8437882026698986
+rs202645,rs202645-A,Lifetime smoking index,rs11090039,0.38960872779375916
+rs202645,rs202645-A,Lifetime smoking index,rs132917,0.9382925333184632
+rs9611602,rs9611602-?,Respiratory diseases,rs11090039,0.37013350931994116
+rs9611602,rs9611602-?,Respiratory diseases,rs132917,0.8830333146069684
+rs9611573,rs9611573-?,Asthma (childhood onset),rs11090039,0.3971754995905193
+rs9611573,rs9611573-?,Asthma (childhood onset),rs132917,0.9403134809764727
+rs132911,rs132911-?,Atopic asthma,rs11090039,0.40947675468647443
+rs132911,rs132911-?,Atopic asthma,rs132917,0.9943359682904308
+rs73174657,rs73174657-?,Hair color,rs11090039,0.9081094704896596
+rs73174657,rs73174657-?,Hair color,rs132917,0.35510218572657404
+rs2179744,rs2179744-A,Bipolar disorder or major depressive disorder,rs11090039,0.9582636316376572
+rs2179744,rs2179744-A,Bipolar disorder or major depressive disorder,rs132917,0.3929942259164039
+rs9611460,rs9611460-T,Depression,rs11090039,0.8855646302500882
+rs9611460,rs9611460-T,Depression,rs132917,0.3489444328705758
+rs12484971,rs12484971-T,Worry,rs11090039,0.9172694559209066
+rs12484971,rs12484971-T,Worry,rs132917,0.36337669068846107
+rs202637,rs202637-?,Meat-related diet,rs11090039,0.3446908458730728
+rs202637,rs202637-?,Meat-related diet,rs132917,0.8509424318215819
+rs761366,rs761366-C,Neuroticism,rs11090039,0.4449227320427934
+rs761366,rs761366-C,Neuroticism,rs132917,0.8525867435615816
+rs12165508,rs12165508-T,"Allergic disease (asthma, hay fever or eczema)",rs11090039,0.3529211150929309
+rs12165508,rs12165508-T,"Allergic disease (asthma, hay fever or eczema)",rs132917,0.8437882026698986
+rs12165508,rs12165508-T,Asthma,rs11090039,0.3529211150929309
+rs12165508,rs12165508-T,Asthma,rs132917,0.8437882026698986
+rs2273085,rs2273085-C,Depression,rs11090039,0.9676166189226185
+rs2273085,rs2273085-C,Depression,rs132917,0.4016269472366418
+rs9607782,rs9607782-T,Schizophrenia,rs11090039,0.8076779792722016
+rs9607782,rs9607782-T,Schizophrenia,rs132917,0.26033270500776257
+rs202637,rs202637-G,Eosinophil count,rs11090039,0.3446908458730728
+rs202637,rs202637-G,Eosinophil count,rs132917,0.8509424318215819
+rs60119330,rs60119330-?,Asthma or irritable bowel syndrome (MTAG),rs11090039,0.3940926688164571
+rs60119330,rs60119330-?,Asthma or irritable bowel syndrome (MTAG),rs132917,0.9351598713080282
+rs2273085,rs2273085-?,Common executive function,rs11090039,0.9676166189226185
+rs2273085,rs2273085-?,Common executive function,rs132917,0.4016269472366418
+rs9611522,rs9611522-?,Major depressive disorder,rs11090039,0.8943178800246345
+rs9611522,rs9611522-?,Major depressive disorder,rs132917,0.39602221618271555
+rs505533,rs505533-?,Age of onset of childhood onset asthma,rs11090039,0.3529211150929309
+rs505533,rs505533-?,Age of onset of childhood onset asthma,rs132917,0.8437882026698986
+rs73174657,rs73174657-A,Parkinson's disease,rs11090039,0.9081094704896596
+rs73174657,rs73174657-A,Parkinson's disease,rs132917,0.35510218572657404
+rs6002381,rs6002381-?,Substance use disorder (pleiotropy),rs11090039,0.3895893064534439
+rs6002381,rs6002381-?,Substance use disorder (pleiotropy),rs132917,0.9270211631023941
+rs9607800,rs9607800-G,Asthma,rs11090039,0.3971754995905193
+rs9607800,rs9607800-G,Asthma,rs132917,0.9403134809764727
+rs2273085,rs2273085-?,Personality traits or cognitive traits (multivariate analysis),rs11090039,0.9676166189226185
+rs2273085,rs2273085-?,Personality traits or cognitive traits (multivariate analysis),rs132917,0.4016269472366418
+rs20551,rs20551-?,Irritable bowel syndrome or schizophrenia (pleiotropy),rs11090039,1
+rs20551,rs20551-?,Irritable bowel syndrome or schizophrenia (pleiotropy),rs132917,0.4127657352151619
+rs202637,rs202637-A,Platelet-to-lymphocyte ratio,rs11090039,0.3446908458730728
+rs202637,rs202637-A,Platelet-to-lymphocyte ratio,rs132917,0.8509424318215819
+rs132901,rs132901-T,Pediatric asthma,rs11090039,0.3673782432898529
+rs132901,rs132901-T,Pediatric asthma,rs132917,0.8891497579916056
+rs4822028,rs4822028-?,Maximum habitual alcohol consumption (MTAG),rs11090039,0.3971754995905193
+rs4822028,rs4822028-?,Maximum habitual alcohol consumption (MTAG),rs132917,0.9403134809764727
+rs9611522,rs9611522-?,Lifetime major depressive disorder (SoftImpute),rs11090039,0.8943178800246345
+rs9611522,rs9611522-?,Lifetime major depressive disorder (SoftImpute),rs132917,0.39602221618271555
+rs73176685,rs73176685-?,Neutrophils and lymphocytes in blood (confirmatory factor analysis Factor 35),rs11090039,0.41077489834984804
+rs73176685,rs73176685-?,Neutrophils and lymphocytes in blood (confirmatory factor analysis Factor 35),rs132917,0.910025463
+rs5758265,rs5758265-A,Depression,rs11090039,0.9582636316376572
+rs5758265,rs5758265-A,Depression,rs132917,0.3929942259164039
+rs5758265,rs5758265-?,Neuroticism conditioned on educational attainment (multi-trait conditioning and joint analysis),rs11090039,0.9582636316376572
+rs5758265,rs5758265-?,Neuroticism conditioned on educational attainment (multi-trait conditioning and joint analysis),rs132917,0.3929942259164039
+rs5758266,rs5758266-?,Neuroticism conditioned on average household income before tax (multi-trait conditioning and joint analysis),rs11090039,0.9582636316376572
+rs5758266,rs5758266-?,Neuroticism conditioned on average household income before tax (multi-trait conditioning and joint analysis),rs132917,0.3929942259164039
+rs9611520,rs9611520-?,Neuroticism conditioned on Townsend deprivation index (multi-trait conditioning and joint analysis),rs11090039,0.981422748
+rs9611520,rs9611520-?,Neuroticism conditioned on Townsend deprivation index (multi-trait conditioning and joint analysis),rs132917,0.41040379148280853
+rs20551,rs20551-A,Major depressive disorder (broad),rs11090039,1
+rs20551,rs20551-A,Major depressive disorder (broad),rs132917,0.4127657352151619
+rs12485034,rs12485034-?,Schizophrenia (MTAG),rs11090039,0.9444566158257851
+rs12485034,rs12485034-?,Schizophrenia (MTAG),rs132917,0.3759355974553962
+rs202637,rs202637-A,Appendicular lean mass,rs11090039,0.3446908458730728
+rs202637,rs202637-A,Appendicular lean mass,rs132917,0.8509424318215819
+rs202637,rs202637-A,Insomnia,rs11090039,0.3446908458730728
+rs202637,rs202637-A,Insomnia,rs132917,0.8509424318215819
+rs5758265,rs5758265-?,Depression,rs11090039,0.9582636316376572
+rs5758265,rs5758265-?,Depression,rs132917,0.3929942259164039
+rs9607782,rs9607782-?,Alzheimer’s disease polygenic risk score (upper quantile vs lower quantile),rs11090039,0.8076779792722016
+rs9607782,rs9607782-?,Alzheimer’s disease polygenic risk score (upper quantile vs lower quantile),rs132917,0.26033270500776257
+rs4822027,rs4822027-A,TEF protein levels,rs11090039,0.37384154614793763
+rs4822027,rs4822027-A,TEF protein levels,rs132917,0.8787584737705414
+rs9611569,rs9611569-A,MICB or MICA protein levels,rs11090039,0.38051786366326823
+rs9611569,rs9611569-A,MICB or MICA protein levels,rs132917,0.8376884498244929
+rs4822025,rs4822025-G,"lymphocyte (fraction, maximum, inv-norm transformed)",rs11090039,0.3809324925410287
+rs4822025,rs4822025-G,"lymphocyte (fraction, maximum, inv-norm transformed)",rs132917,0.8389625686862255
+rs4822025,rs4822025-G,"lymphocyte (fraction, mean, inv-norm transformed)",rs11090039,0.3809324925410287
+rs4822025,rs4822025-G,"lymphocyte (fraction, mean, inv-norm transformed)",rs132917,0.8389625686862255
+rs2234059,rs2234059-T,"lymphocyte (absolute count, mean, inv-norm transformed)",rs11090039,0.3839858220376011
+rs2234059,rs2234059-T,"lymphocyte (absolute count, mean, inv-norm transformed)",rs132917,0.8437882026698986
+rs2234059,rs2234059-T,"lymphocyte (absolute count, minimum, inv-norm transformed)",rs11090039,0.3839858220376011
+rs2234059,rs2234059-T,"lymphocyte (absolute count, minimum, inv-norm transformed)",rs132917,0.8437882026698986
+rs4822025,rs4822025-G,"lymphocyte (absolute count, maximum, inv-norm transformed)",rs11090039,0.3809324925410287
+rs4822025,rs4822025-G,"lymphocyte (absolute count, maximum, inv-norm transformed)",rs132917,0.8389625686862255
+rs9611486,rs9611486-C,"monocyte (fraction, maximum, inv-norm transformed)",rs11090039,0.9220911531483719
+rs9611486,rs9611486-C,"monocyte (fraction, maximum, inv-norm transformed)",rs132917,0.3634145710328459
+rs6002277,rs6002277-G,"monocyte (fraction, mean, inv-norm transformed)",rs11090039,0.9860218241102692
+rs6002277,rs6002277-G,"monocyte (fraction, mean, inv-norm transformed)",rs132917,0.4126407795901411
+rs3927,rs3927-T,"monocyte (absolute count, mean, inv-norm transformed)",rs11090039,0.42633518450223096
+rs3927,rs3927-T,"monocyte (absolute count, mean, inv-norm transformed)",rs132917,0.8163419825156185
+rs9611567,rs9611567-G,IGF 1 (UKB data field 30770),rs11090039,0.40797005949761483
+rs9611567,rs9611567-G,IGF 1 (UKB data field 30770),rs132917,0.8954332607464153
+rs2413644,rs2413644-A,"platelet count (maximum, inv-norm transformed)",rs11090039,0.3895893064534439
+rs2413644,rs2413644-A,"platelet count (maximum, inv-norm transformed)",rs132917,0.9270211631023941
+rs5751069,rs5751069-C,"red cell diameter width (RDW, mean, inv-norm transformed)",rs11090039,0.9678024068180987
+rs5751069,rs5751069-C,"red cell diameter width (RDW, mean, inv-norm transformed)",rs132917,0.4037795751341368
+rs5751069,rs5751069-C,"red cell diameter width (RDW, maximum, inv-norm transformed)",rs11090039,0.9678024068180987
+rs5751069,rs5751069-C,"red cell diameter width (RDW, maximum, inv-norm transformed)",rs132917,0.4037795751341368
+rs9607812,rs9607812-G,Bitter alcoholic beverage consumption,rs11090039,0.34470595467994003
+rs9607812,rs9607812-G,Bitter alcoholic beverage consumption,rs132917,0.8290855956316315
+rs9607814,rs9607814-A,Alcohol consumption (drinks per week) (MTAG),rs11090039,0.37013350931994116
+rs9607814,rs9607814-A,Alcohol consumption (drinks per week) (MTAG),rs132917,0.8721827056498824
+rs9607814,rs9607814-A,Alcohol consumption (drinks per week),rs11090039,0.37013350931994116
+rs9607814,rs9607814-A,Alcohol consumption (drinks per week),rs132917,0.8721827056498824
+rs73178638,rs73178638-C,Smoking cessation (MTAG),rs11090039,0.37013350931994116
+rs73178638,rs73178638-C,Smoking cessation (MTAG),rs132917,0.8721827056498824
+rs9607812,rs9607812-A,Alcohol consumption (drinks per week),rs11090039,0.34470595467994003
+rs9607812,rs9607812-A,Alcohol consumption (drinks per week),rs132917,0.8290855956316315
+rs9611609,rs9611609-A,Drinks per week,rs11090039,0.3669608827238993
+rs9611609,rs9611609-A,Drinks per week,rs132917,0.8668328052313965
+rs9607814,rs9607814-A,Drinks per week,rs11090039,0.37013350931994116
+rs9607814,rs9607814-A,Drinks per week,rs132917,0.8721827056498824
+rs76930421,rs76930421-T,"neutrophil (fraction, minimum, inv-norm transformed)",rs11090039,0.37013350931994116
+rs76930421,rs76930421-T,"neutrophil (fraction, minimum, inv-norm transformed)",rs132917,0.8721827056498824
+rs7798894,rs7798894-A,Multisite chronic pain,rs6461565,0.8668773559236784
+rs6948810,rs6948810-T,Neuroticism,rs6461565,0.8667909671249864
+rs6948810,rs6948810-C,Attention deficit hyperactivity disorder,rs6461565,0.8667909671249864
+rs7798894,rs7798894-?,Multisite chronic pain,rs6461565,0.8668773559236784
+rs2972650,rs2972650-G,Number of children ever born,rs1127406,1
+rs11705932,rs11705932-C,Testicular germ cell tumor,rs11717068,0.099530451
+rs11705932,rs11705932-C,Testicular germ cell tumor,rs113406766,0.9867853272470526
+rs62284572,rs62284572-T,Mean corpuscular volume,rs11717068,0.10197151038505288
+rs62284572,rs62284572-T,Mean corpuscular volume,rs113406766,0.980202047
+rs62284572,rs62284572-T,Mean corpuscular hemoglobin,rs11717068,0.10197151038505288
+rs62284572,rs62284572-T,Mean corpuscular hemoglobin,rs113406766,0.980202047
+rs62284572,rs62284572-T,Mean sphered cell volume (UKB data field 30270),rs11717068,0.10197151038505288
+rs62284572,rs62284572-T,Mean sphered cell volume (UKB data field 30270),rs113406766,0.980202047
+rs62284572,rs62284572-T,Mean reticulocyte volume (UKB data field 30260),rs11717068,0.10197151038505288
+rs62284572,rs62284572-T,Mean reticulocyte volume (UKB data field 30260),rs113406766,0.980202047
+rs4931000,rs4931000-G,Testicular germ cell tumor,rs2625087,0.19710302746594716
+rs4931000,rs4931000-G,Testicular germ cell tumor,rs10771895,1
+rs4931005,rs4931005-A,Low density lipoprotein cholesterol levels,rs2625087,0.18168677895719346
+rs4931005,rs4931005-A,Low density lipoprotein cholesterol levels,rs10771895,0.9119235610923955
+rs4931002,rs4931002-A,Eosinophil percentage of white cells,rs2625087,0.19612299539698502
+rs4931002,rs4931002-A,Eosinophil percentage of white cells,rs10771895,0.988077178
+rs7302975,rs7302975-?,Eosinophil count,rs2625087,0.19612299539698502
+rs7302975,rs7302975-?,Eosinophil count,rs10771895,0.988077178
+rs4931002,rs4931002-A,Eosinophil count,rs2625087,0.19612299539698502
+rs4931002,rs4931002-A,Eosinophil count,rs10771895,0.988077178
+rs2166807,rs2166807-C,Eosinophil count,rs2625087,0.19348652621692708
+rs2166807,rs2166807-C,Eosinophil count,rs10771895,0.9821997310496142
+rs7302975,rs7302975-C,Eosinophil count,rs2625087,0.19612299539698502
+rs7302975,rs7302975-C,Eosinophil count,rs10771895,0.988077178
+rs7302975,rs7302975-T,Height,rs2625087,0.19612299539698502
+rs7302975,rs7302975-T,Height,rs10771895,0.988077178
+rs4931002,rs4931002-A,Eosinophill percentage (UKB data field 30210),rs2625087,0.19612299539698502
+rs4931002,rs4931002-A,Eosinophill percentage (UKB data field 30210),rs10771895,0.988077178
+rs7302975,rs7302975-C,Eosinophill count (UKB data field 30150),rs2625087,0.19612299539698502
+rs7302975,rs7302975-C,Eosinophill count (UKB data field 30150),rs10771895,0.988077178
+rs7302975,rs7302975-T,"eosinophil (absolute count, maximum, inv-norm transformed)",rs2625087,0.19612299539698502
+rs7302975,rs7302975-T,"eosinophil (absolute count, maximum, inv-norm transformed)",rs10771895,0.988077178
+rs7302975,rs7302975-T,"eosinophil (absolute count, mean, inv-norm transformed)",rs2625087,0.19612299539698502
+rs7302975,rs7302975-T,"eosinophil (absolute count, mean, inv-norm transformed)",rs10771895,0.988077178
+rs2166807,rs2166807-T,"eosinophil (fraction, mean, inv-norm transformed)",rs2625087,0.19348652621692708
+rs2166807,rs2166807-T,"eosinophil (fraction, mean, inv-norm transformed)",rs10771895,0.9821997310496142
+rs2166807,rs2166807-T,"eosinophil (absolute count, minimum, inv-norm transformed)",rs2625087,0.19348652621692708
+rs2166807,rs2166807-T,"eosinophil (absolute count, minimum, inv-norm transformed)",rs10771895,0.9821997310496142
+rs2166807,rs2166807-T,"eosinophil (fraction, maximum, inv-norm transformed)",rs2625087,0.19348652621692708
+rs2166807,rs2166807-T,"eosinophil (fraction, maximum, inv-norm transformed)",rs10771895,0.9821997310496142
+rs2166807,rs2166807-T,"red cell diameter width (RDW, minimum, inv-norm transformed)",rs2625087,0.19348652621692708
+rs2166807,rs2166807-T,"red cell diameter width (RDW, minimum, inv-norm transformed)",rs10771895,0.9821997310496142
+rs7302975,rs7302975-T,"red cell diameter width (RDW, mean, inv-norm transformed)",rs2625087,0.19612299539698502
+rs7302975,rs7302975-T,"red cell diameter width (RDW, mean, inv-norm transformed)",rs10771895,0.988077178
+rs7302975,rs7302975-T,"red cell diameter width (RDW, minimum, inv-norm transformed)",rs2625087,0.19612299539698502
+rs7302975,rs7302975-T,"red cell diameter width (RDW, minimum, inv-norm transformed)",rs10771895,0.988077178
+rs10739649,rs10739649-G,Platelet count,rs10818964,0.9045194912768124
+rs10739649,rs10739649-G,Platelet count,rs10739650,0.000283342
+rs10986338,rs10986338-A,White blood cell count,rs10818964,0.9779200028093833
+rs10986338,rs10986338-A,White blood cell count,rs10739650,0.000337986
+rs10986338,rs10986338-A,Plateletcrit,rs10818964,0.9779200028093833
+rs10986338,rs10986338-A,Plateletcrit,rs10739650,0.000337986
+rs10986338,rs10986338-A,Platelet count,rs10818964,0.9779200028093833
+rs10986338,rs10986338-A,Platelet count,rs10739650,0.000337986
+rs12378064,rs12378064-T,White blood cell count,rs10818964,0.9779200028093833
+rs12378064,rs12378064-T,White blood cell count,rs10739650,0.000337986
+rs10818963,rs10818963-A,Reticulocyte fraction of red cells,rs10818964,1
+rs10818963,rs10818963-A,Reticulocyte fraction of red cells,rs10739650,0.000457548
+rs10818963,rs10818963-A,Reticulocyte count,rs10818964,1
+rs10818963,rs10818963-A,Reticulocyte count,rs10739650,0.000457548
+rs10818963,rs10818963-A,Plateletcrit,rs10818964,1
+rs10818963,rs10818963-A,Plateletcrit,rs10739650,0.000457548
+rs4072705,rs4072705-?,Menarche (age at onset),rs10818964,3.36474734388244e-05
+rs4072705,rs4072705-?,Menarche (age at onset),rs10739650,0.937490847
+rs4838195,rs4838195-A,Drinks per week,rs10818964,9.902419926122522e-05
+rs4838195,rs4838195-A,Drinks per week,rs10739650,0.8932081682557296
+rs4838201,rs4838201-T,Drinks per week,rs10818964,3.0202154784057922e-05
+rs4838201,rs4838201-T,Drinks per week,rs10739650,0.9378874573255339
+rs10986338,rs10986338-?,White blood cell count,rs10818964,0.9779200028093833
+rs10986338,rs10986338-?,White blood cell count,rs10739650,0.000337986
+rs12683568,rs12683568-?,Red cell distribution width,rs10818964,0.9040486998458988
+rs12683568,rs12683568-?,Red cell distribution width,rs10739650,0.000259472
+rs10818963,rs10818963-T,Telomere length (principal component 1),rs10818964,1
+rs10818963,rs10818963-T,Telomere length (principal component 1),rs10739650,0.000457548
+rs3739760,rs3739760-C,Drinks per week,rs10818964,1.9498455454920583e-05
+rs3739760,rs3739760-C,Drinks per week,rs10739650,0.9449678410259645
+rs7874367,rs7874367-T,Height,rs10818964,5.189407373887655e-05
+rs7874367,rs7874367-T,Height,rs10739650,0.9492177415252882
+rs10986338,rs10986338-A,Platelet crit (UKB data field 30090),rs10818964,0.9779200028093833
+rs10986338,rs10986338-A,Platelet crit (UKB data field 30090),rs10739650,0.000337986
+rs12378064,rs12378064-C,"white blood cell count (WBC, maximum, inv-norm transformed)",rs10818964,0.9779200028093833
+rs12378064,rs12378064-C,"white blood cell count (WBC, maximum, inv-norm transformed)",rs10739650,0.000337986
+rs12378064,rs12378064-C,"white blood cell count (WBC, mean, inv-norm transformed)",rs10818964,0.9779200028093833
+rs12378064,rs12378064-C,"white blood cell count (WBC, mean, inv-norm transformed)",rs10739650,0.000337986
+rs12378064,rs12378064-C,"platelet count (maximum, inv-norm transformed)",rs10818964,0.9779200028093833
+rs12378064,rs12378064-C,"platelet count (maximum, inv-norm transformed)",rs10739650,0.000337986
+rs12378064,rs12378064-C,"platelet count (mean, inv-norm transformed)",rs10818964,0.9779200028093833
+rs12378064,rs12378064-C,"platelet count (mean, inv-norm transformed)",rs10739650,0.000337986
+rs12378064,rs12378064-C,"platelet count (minimum, inv-norm transformed)",rs10818964,0.9779200028093833
+rs12378064,rs12378064-C,"platelet count (minimum, inv-norm transformed)",rs10739650,0.000337986
+LD warning for rs3751674: No entries in the GWAS Catalog are identified using the LDtrait search criteria.,,,,
