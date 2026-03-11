@@ -1,0 +1,11 @@
+source_line_number	source_region	query_variant	associated_region	association_type	target_name	ccre_accession	method	tissue	celltype
+21	chr9:124769805-124771893	chr9:124770849	chr9:125140001-125145000	bedpe_interaction	bedpe_line_32359		BEDPE:32359		
+21	chr9:124769805-124771893	chr9:124770849	chr9:125140001-125150000	bedpe_interaction	bedpe_line_5581		BEDPE:5581		
+21	chr9:124769805-124771893	chr9:124770849	chr9:125370001-125375000	bedpe_interaction	bedpe_line_32448		BEDPE:32448		
+37	chr22:41021295-41023351	chr22:41022323	chr22:40950001-40952000	bedpe_interaction	bedpe_line_20178		BEDPE:20178		
+37	chr22:41021295-41023351	chr22:41022323	chr22:41090001-41095000	bedpe_interaction	bedpe_line_3135		BEDPE:3135		
+37	chr22:41021295-41023351	chr22:41022323	chr22:41091001-41092000	bedpe_interaction	bedpe_line_20321		BEDPE:20321		
+39	chr22:41090315-41092353	chr22:41091334	chr22:40950001-40952000	bedpe_interaction	bedpe_line_3138		BEDPE:3138		
+39	chr22:41090315-41092353	chr22:41091334	chr22:40951001-40952000	bedpe_interaction	bedpe_line_20136		BEDPE:20136		
+39	chr22:41090315-41092353	chr22:41091334	chr22:41020001-41025000	bedpe_interaction	bedpe_line_3135		BEDPE:3135		
+39	chr22:41090315-41092353	chr22:41091334	chr22:41022001-41023000	bedpe_interaction	bedpe_line_20321		BEDPE:20321		

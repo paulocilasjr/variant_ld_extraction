@@ -1,0 +1,949 @@
+{
+  "tiles_file": "tiles_TECAC",
+  "tile_count": 44,
+  "query_mode": "midpoint",
+  "assembly": "grch38",
+  "tissue_query": "testis",
+  "window": 10000,
+  "bedpe": "/Users/4475918/Projects/temp/variant_ld_extraction/public_data/encode_testis_hic_loops/testis_hic_loops_GRCh38_merged.bedpe",
+  "sources": {
+    "screen_enabled": false,
+    "bedpe_enabled": true
+  },
+  "ok_count": 44,
+  "partial_count": 0,
+  "error_count": 0,
+  "association_count": 10,
+  "associations": [
+    {
+      "source_line_number": 21,
+      "source_chrom": "chr9",
+      "source_start0": 124769804,
+      "source_end0": 124771893,
+      "source_region": "chr9:124769805-124771893",
+      "query_variant": "chr9:124770849",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr9",
+      "target_start0": 125140000,
+      "target_end0": 125145000,
+      "associated_region": "chr9:125140001-125145000",
+      "target_name": "bedpe_line_32359",
+      "ccre_accession": null,
+      "method": "BEDPE:32359",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 21,
+      "source_chrom": "chr9",
+      "source_start0": 124769804,
+      "source_end0": 124771893,
+      "source_region": "chr9:124769805-124771893",
+      "query_variant": "chr9:124770849",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr9",
+      "target_start0": 125140000,
+      "target_end0": 125150000,
+      "associated_region": "chr9:125140001-125150000",
+      "target_name": "bedpe_line_5581",
+      "ccre_accession": null,
+      "method": "BEDPE:5581",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 21,
+      "source_chrom": "chr9",
+      "source_start0": 124769804,
+      "source_end0": 124771893,
+      "source_region": "chr9:124769805-124771893",
+      "query_variant": "chr9:124770849",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr9",
+      "target_start0": 125370000,
+      "target_end0": 125375000,
+      "associated_region": "chr9:125370001-125375000",
+      "target_name": "bedpe_line_32448",
+      "ccre_accession": null,
+      "method": "BEDPE:32448",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 37,
+      "source_chrom": "chr22",
+      "source_start0": 41021294,
+      "source_end0": 41023351,
+      "source_region": "chr22:41021295-41023351",
+      "query_variant": "chr22:41022323",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 40950000,
+      "target_end0": 40952000,
+      "associated_region": "chr22:40950001-40952000",
+      "target_name": "bedpe_line_20178",
+      "ccre_accession": null,
+      "method": "BEDPE:20178",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 37,
+      "source_chrom": "chr22",
+      "source_start0": 41021294,
+      "source_end0": 41023351,
+      "source_region": "chr22:41021295-41023351",
+      "query_variant": "chr22:41022323",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 41090000,
+      "target_end0": 41095000,
+      "associated_region": "chr22:41090001-41095000",
+      "target_name": "bedpe_line_3135",
+      "ccre_accession": null,
+      "method": "BEDPE:3135",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 37,
+      "source_chrom": "chr22",
+      "source_start0": 41021294,
+      "source_end0": 41023351,
+      "source_region": "chr22:41021295-41023351",
+      "query_variant": "chr22:41022323",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 41091000,
+      "target_end0": 41092000,
+      "associated_region": "chr22:41091001-41092000",
+      "target_name": "bedpe_line_20321",
+      "ccre_accession": null,
+      "method": "BEDPE:20321",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 39,
+      "source_chrom": "chr22",
+      "source_start0": 41090314,
+      "source_end0": 41092353,
+      "source_region": "chr22:41090315-41092353",
+      "query_variant": "chr22:41091334",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 40950000,
+      "target_end0": 40952000,
+      "associated_region": "chr22:40950001-40952000",
+      "target_name": "bedpe_line_3138",
+      "ccre_accession": null,
+      "method": "BEDPE:3138",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 39,
+      "source_chrom": "chr22",
+      "source_start0": 41090314,
+      "source_end0": 41092353,
+      "source_region": "chr22:41090315-41092353",
+      "query_variant": "chr22:41091334",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 40951000,
+      "target_end0": 40952000,
+      "associated_region": "chr22:40951001-40952000",
+      "target_name": "bedpe_line_20136",
+      "ccre_accession": null,
+      "method": "BEDPE:20136",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 39,
+      "source_chrom": "chr22",
+      "source_start0": 41090314,
+      "source_end0": 41092353,
+      "source_region": "chr22:41090315-41092353",
+      "query_variant": "chr22:41091334",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 41020000,
+      "target_end0": 41025000,
+      "associated_region": "chr22:41020001-41025000",
+      "target_name": "bedpe_line_3135",
+      "ccre_accession": null,
+      "method": "BEDPE:3135",
+      "tissue": null,
+      "celltype": null
+    },
+    {
+      "source_line_number": 39,
+      "source_chrom": "chr22",
+      "source_start0": 41090314,
+      "source_end0": 41092353,
+      "source_region": "chr22:41090315-41092353",
+      "query_variant": "chr22:41091334",
+      "association_type": "bedpe_interaction",
+      "target_chrom": "chr22",
+      "target_start0": 41022000,
+      "target_end0": 41023000,
+      "associated_region": "chr22:41022001-41023000",
+      "target_name": "bedpe_line_20321",
+      "ccre_accession": null,
+      "method": "BEDPE:20321",
+      "tissue": null,
+      "celltype": null
+    }
+  ],
+  "results": [
+    {
+      "line_number": 2,
+      "tile": {
+        "chrom": "chr3",
+        "start_0based": 141910334,
+        "end_0based": 141912334,
+        "start_1based": 141910335,
+        "end_1based": 141912334
+      },
+      "query_variant": "chr3:141911335",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 3,
+      "tile": {
+        "chrom": "chr3",
+        "start_0based": 141920302,
+        "end_0based": 141922312,
+        "start_1based": 141920303,
+        "end_1based": 141922312
+      },
+      "query_variant": "chr3:141921308",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 4,
+      "tile": {
+        "chrom": "chr4",
+        "start_0based": 103136505,
+        "end_0based": 103138535,
+        "start_1based": 103136506,
+        "end_1based": 103138535
+      },
+      "query_variant": "chr4:103137521",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 5,
+      "tile": {
+        "chrom": "chr4",
+        "start_0based": 103197692,
+        "end_0based": 103199702,
+        "start_1based": 103197693,
+        "end_1based": 103199702
+      },
+      "query_variant": "chr4:103198698",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 6,
+      "tile": {
+        "chrom": "chr4",
+        "start_0based": 103346459,
+        "end_0based": 103348483,
+        "start_1based": 103346460,
+        "end_1based": 103348483
+      },
+      "query_variant": "chr4:103347472",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 7,
+      "tile": {
+        "chrom": "chr4",
+        "start_0based": 103438488,
+        "end_0based": 103440510,
+        "start_1based": 103438489,
+        "end_1based": 103440510
+      },
+      "query_variant": "chr4:103439500",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 8,
+      "tile": {
+        "chrom": "chr4",
+        "start_0based": 103450003,
+        "end_0based": 103452005,
+        "start_1based": 103450004,
+        "end_1based": 103452005
+      },
+      "query_variant": "chr4:103451005",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 9,
+      "tile": {
+        "chrom": "chr7",
+        "start_0based": 21455713,
+        "end_0based": 21457713,
+        "start_1based": 21455714,
+        "end_1based": 21457713
+      },
+      "query_variant": "chr7:21456714",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 10,
+      "tile": {
+        "chrom": "chr8",
+        "start_0based": 94615501,
+        "end_0based": 94617498,
+        "start_1based": 94615502,
+        "end_1based": 94617498
+      },
+      "query_variant": "chr8:94616500",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 11,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124560615,
+        "end_0based": 124562618,
+        "start_1based": 124560616,
+        "end_1based": 124562618
+      },
+      "query_variant": "chr9:124561617",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 12,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124572929,
+        "end_0based": 124574941,
+        "start_1based": 124572930,
+        "end_1based": 124574941
+      },
+      "query_variant": "chr9:124573936",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 13,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124593082,
+        "end_0based": 124594989,
+        "start_1based": 124593083,
+        "end_1based": 124594989
+      },
+      "query_variant": "chr9:124594036",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 14,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124601306,
+        "end_0based": 124603321,
+        "start_1based": 124601307,
+        "end_1based": 124603321
+      },
+      "query_variant": "chr9:124602314",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 15,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124620553,
+        "end_0based": 124622642,
+        "start_1based": 124620554,
+        "end_1based": 124622642
+      },
+      "query_variant": "chr9:124621598",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 16,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124659009,
+        "end_0based": 124661009,
+        "start_1based": 124659010,
+        "end_1based": 124661009
+      },
+      "query_variant": "chr9:124660010",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 17,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124695030,
+        "end_0based": 124697031,
+        "start_1based": 124695031,
+        "end_1based": 124697031
+      },
+      "query_variant": "chr9:124696031",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 18,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124697464,
+        "end_0based": 124699474,
+        "start_1based": 124697465,
+        "end_1based": 124699474
+      },
+      "query_variant": "chr9:124698470",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 19,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124733875,
+        "end_0based": 124735971,
+        "start_1based": 124733876,
+        "end_1based": 124735971
+      },
+      "query_variant": "chr9:124734924",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 20,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124757413,
+        "end_0based": 124759380,
+        "start_1based": 124757414,
+        "end_1based": 124759380
+      },
+      "query_variant": "chr9:124758397",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 21,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124769804,
+        "end_0based": 124771893,
+        "start_1based": 124769805,
+        "end_1based": 124771893
+      },
+      "query_variant": "chr9:124770849",
+      "query_mode": "midpoint",
+      "association_count": 3,
+      "association_sources": {
+        "bedpe": 3
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 22,
+      "tile": {
+        "chrom": "chr9",
+        "start_0based": 124794241,
+        "end_0based": 124796251,
+        "start_1based": 124794242,
+        "end_1based": 124796251
+      },
+      "query_variant": "chr9:124795247",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 23,
+      "tile": {
+        "chrom": "chr12",
+        "start_0based": 31949862,
+        "end_0based": 31951855,
+        "start_1based": 31949863,
+        "end_1based": 31951855
+      },
+      "query_variant": "chr12:31950859",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 24,
+      "tile": {
+        "chrom": "chr12",
+        "start_0based": 31989010,
+        "end_0based": 31991032,
+        "start_1based": 31989011,
+        "end_1based": 31991032
+      },
+      "query_variant": "chr12:31990022",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 25,
+      "tile": {
+        "chrom": "chr16",
+        "start_0based": 74630000,
+        "end_0based": 74632011,
+        "start_1based": 74630001,
+        "end_1based": 74632011
+      },
+      "query_variant": "chr16:74631006",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 26,
+      "tile": {
+        "chrom": "chr16",
+        "start_0based": 74651301,
+        "end_0based": 74653307,
+        "start_1based": 74651302,
+        "end_1based": 74653307
+      },
+      "query_variant": "chr16:74652305",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 27,
+      "tile": {
+        "chrom": "chr16",
+        "start_0based": 74665995,
+        "end_0based": 74668006,
+        "start_1based": 74665996,
+        "end_1based": 74668006
+      },
+      "query_variant": "chr16:74667001",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 28,
+      "tile": {
+        "chrom": "chr16",
+        "start_0based": 74695852,
+        "end_0based": 74697881,
+        "start_1based": 74695853,
+        "end_1based": 74697881
+      },
+      "query_variant": "chr16:74696867",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 29,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36256494,
+        "end_0based": 36258488,
+        "start_1based": 36256495,
+        "end_1based": 36258488
+      },
+      "query_variant": "chr19:36257492",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 30,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36265454,
+        "end_0based": 36267498,
+        "start_1based": 36265455,
+        "end_1based": 36267498
+      },
+      "query_variant": "chr19:36266477",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 31,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36308549,
+        "end_0based": 36310552,
+        "start_1based": 36308550,
+        "end_1based": 36310552
+      },
+      "query_variant": "chr19:36309551",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 32,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36324138,
+        "end_0based": 36326171,
+        "start_1based": 36324139,
+        "end_1based": 36326171
+      },
+      "query_variant": "chr19:36325155",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 33,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36330894,
+        "end_0based": 36332896,
+        "start_1based": 36330895,
+        "end_1based": 36332896
+      },
+      "query_variant": "chr19:36331896",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 34,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36342158,
+        "end_0based": 36344161,
+        "start_1based": 36342159,
+        "end_1based": 36344161
+      },
+      "query_variant": "chr19:36343160",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 35,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36377852,
+        "end_0based": 36379868,
+        "start_1based": 36377853,
+        "end_1based": 36379868
+      },
+      "query_variant": "chr19:36378861",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 36,
+      "tile": {
+        "chrom": "chr19",
+        "start_0based": 36417767,
+        "end_0based": 36419761,
+        "start_1based": 36417768,
+        "end_1based": 36419761
+      },
+      "query_variant": "chr19:36418765",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 37,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41021294,
+        "end_0based": 41023351,
+        "start_1based": 41021295,
+        "end_1based": 41023351
+      },
+      "query_variant": "chr22:41022323",
+      "query_mode": "midpoint",
+      "association_count": 3,
+      "association_sources": {
+        "bedpe": 3
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 38,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41035391,
+        "end_0based": 41037269,
+        "start_1based": 41035392,
+        "end_1based": 41037269
+      },
+      "query_variant": "chr22:41036331",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 39,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41090314,
+        "end_0based": 41092353,
+        "start_1based": 41090315,
+        "end_1based": 41092353
+      },
+      "query_variant": "chr22:41091334",
+      "query_mode": "midpoint",
+      "association_count": 4,
+      "association_sources": {
+        "bedpe": 4
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 40,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41099764,
+        "end_0based": 41101779,
+        "start_1based": 41099765,
+        "end_1based": 41101779
+      },
+      "query_variant": "chr22:41100772",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 41,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41169600,
+        "end_0based": 41171531,
+        "start_1based": 41169601,
+        "end_1based": 41171531
+      },
+      "query_variant": "chr22:41170566",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 42,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41195746,
+        "end_0based": 41197756,
+        "start_1based": 41195747,
+        "end_1based": 41197756
+      },
+      "query_variant": "chr22:41196752",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 43,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41216563,
+        "end_0based": 41218644,
+        "start_1based": 41216564,
+        "end_1based": 41218644
+      },
+      "query_variant": "chr22:41217604",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 44,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41221933,
+        "end_0based": 41223980,
+        "start_1based": 41221934,
+        "end_1based": 41223980
+      },
+      "query_variant": "chr22:41222957",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    },
+    {
+      "line_number": 45,
+      "tile": {
+        "chrom": "chr22",
+        "start_0based": 41239974,
+        "end_0based": 41241988,
+        "start_1based": 41239975,
+        "end_1based": 41241988
+      },
+      "query_variant": "chr22:41240982",
+      "query_mode": "midpoint",
+      "association_count": 0,
+      "association_sources": {
+        "bedpe": 0
+      },
+      "status": "ok"
+    }
+  ]
+}
