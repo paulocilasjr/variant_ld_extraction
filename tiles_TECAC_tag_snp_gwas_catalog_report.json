@@ -1,0 +1,7 @@
+{
+  "input": "TECAC_GWAS_index_SNPs_OCT_2025",
+  "regions_file": "tiles_TECAC",
+  "tag_snp_count": 10,
+  "all_rows": 4,
+  "cancer_rows": 0
+}

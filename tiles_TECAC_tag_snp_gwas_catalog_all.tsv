@@ -1,0 +1,5 @@
+tag_snp	tag_chrom	tag_pos	source_region	trait_name	trait_category	matched_keywords	mapped_genes	accession_id	pubmed_id	author	publication_date	p_value	beta	or_value	ci	risk_frequency	association_locations
+rs11090039	chr22	41100796	chr22:41099765-41101779	Experiencing mood swings	other		EP300	GCST006944	29500382	Nagel M	2018-03-02	2e-10	6.38 z score increase			0.283315	22:41100796
+rs11090039	chr22	41100796	chr22:41099765-41101779	Insomnia	other		EP300	GCST007988	30804565	Jansen PR	2019-02-25	2e-9		1.04	[1.03-1.05]	0.2871	22:41100796
+rs11090039	chr22	41100796	chr22:41099765-41101779	Insomnia	other		EP300	GCST90131903	35835914	Watanabe K	2022-07-14	7e-11	0.009 unit increase		[0.007-0.011]	NR	22:41100796
+rs11090039	chr22	41100796	chr22:41099765-41101779	Irritable bowel syndrome (MTAG)	other		EP300	GCST90277988	37085903	Alemany S	2023-04-21	3e-13	0.012 unit increase		[0.0081-0.0159]	NR	22:41100796
