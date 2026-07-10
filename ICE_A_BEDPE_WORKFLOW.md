@@ -45,3 +45,20 @@ python check_topological_associate_domain.py \
 2. Go to `My Data` -> `Custom Tracks`.
 3. Upload `tiles_TECAC_links.interact`.
 4. Set display mode to `full` to visualize arcs between source and partner regions.
+
+## Focused Luciferase / H1-hESC Browser Session
+
+The requested luciferase-active and PAINTOR regions are stored in `luciferase_hesc_h1_regions.tsv`.
+To regenerate the focused H1-hESC custom tracks from the cached H1-hESC association table:
+
+```bash
+python create_luciferase_hesc_browser_track.py
+```
+
+Main outputs:
+
+- `luciferase_hesc_h1_ucsc_session.txt`: combined UCSC custom-track file for hg38.
+- `luciferase_hesc_h1_regions.bed`: source region track.
+- `luciferase_hesc_h1_snps.bed`: SNP marker track for SNPs found in the cached source.
+- `luciferase_hesc_h1_links.interact`: H1-hESC interaction arcs for requested SNPs present in the cached association table.
+- `luciferase_hesc_h1_summary.tsv` and `luciferase_hesc_h1_report.md`: per-region counts and missing cached SNPs.
