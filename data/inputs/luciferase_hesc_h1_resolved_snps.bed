@@ -1,0 +1,4 @@
+track name="Luciferase_H1_hESC_resolved_SNPs" description="dbSNP/TECAC-resolved SNP coordinates for focused H1-hESC analysis"
+chr4	103439329	103439330	rs11946500
+chr7	21504726	21504727	rs2390539
+chr22	41359100	41359101	rs5751084

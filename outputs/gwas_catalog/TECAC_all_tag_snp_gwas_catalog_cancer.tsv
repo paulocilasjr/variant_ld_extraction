@@ -1,0 +1,77 @@
+tag_snp	tag_chrom	tag_pos	source_region	trait_name	trait_category	matched_keywords	mapped_genes	accession_id	pubmed_id	author	publication_date	p_value	beta	or_value	ci	risk_frequency	association_locations
+rs2251636	chr1	156233018		Clear cell renal cell carcinoma	other_cancer	carcinoma	PMF1-BGLAP; PMF1	GCST90320055	38671320	Purdue MP	2024-04-26	2e-19		1.13	[1.1-1.16]	0.38	1:156233018
+rs61408740	chr10	124586043		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	LHPP	GCST004713	28604732	Wang Z	2017-06-12	2e-8		1.65	1.38–1.96	0.02	10:124586043
+rs7315956	chr12	70170085		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	PRANCR	GCST004635	28604728	Litchfield K	2017-06-12	9e-10		1.13	[1.08–1.18]	0.34	12:70170085
+rs11071896	chr15	66528912		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZWILCH	GCST004635	28604728	Litchfield K	2017-06-12	8e-13		1.19	[1.14–1.25]	0.26	15:66528912
+rs9966612	chr18	649311		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	CLUL1; TYMSOS	GCST004635	28604728	Litchfield K	2017-06-12	4e-10		1.17	[1.12–1.23]	0.32	18:649311
+rs3744962	chr18	674320		Thyroid cancer	other_cancer	cancer	ENOSF1; TYMS	GCST90245888	36508215	Feng X	2022-12-01	3e-7	0.32 unit increase		[0.2-0.44]	NR	18:674320
+rs61193264	chr19	23651293		Testicular cancer	testicular_cancer	testicular; cancer	ZNF675	GCST90011805	32887889	Rashkin SR	2020-09-04	4e-7		1.37791	NR	NR	19:23651293
+rs34601376	chr19	23868026		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	RPSA2	GCST004713	28604732	Wang Z	2017-06-12	2e-11		1.29	1.20–1.39	0.195	19:23868026
+rs2241024	chr19	27766485		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	LINC00662	GCST004635	28604728	Litchfield K	2017-06-12	1e-16		1.23	[1.16–1.29]	0.8	19:27766485
+rs7581030	chr2	71345325		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZNF638	GCST004635	28604728	Litchfield K	2017-06-12	2e-11		1.17	[1.12–1.23]	0.24	2:71345325
+rs4862848	chr4	188000286		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZFP42	GCST004635	28604728	Litchfield K	2017-06-12	2e-12		1.21	[1.16–1.27]	0.35	4:188000286
+rs10069690	chr5	1279675		Biological Sibling:  Cancer, Prostate	other_cancer	cancer	TERT	GCST90476368	39024449	Verma A	2024-07-19	2e-11	0.1093 unit increase		[0.077-0.141]	0.7432	5:1279675
+rs10069690	chr5	1279675		Breast Cancer in BRCA1 mutation carriers	other_cancer	cancer	TERT	GCST005075	29058716	Milne RL	2017-10-23	4e-16		1.18	[1.14-1.23]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001298	22037553	Haiman CA	2011-10-30	1e-10		1.18	[1.13-1.25]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST004988	29059683	Michailidou K	2017-10-23	8e-17		1.06 (Oncoarray)	[1.04-1.08]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST007236	25751625	Michailidou K	2015-04-01	2e-8		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST004950	25751625	Michailidou K	2015-04-01	1e-8		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001930	23535733	Garcia-Closas M	2013-04-01	5e-12		1.15	[1.11-1.20]	0.321	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001937	23535729	Michailidou K	2013-04-01	7e-9		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST90090980	32139696	Shu X	2020-03-05	2e-20		1.06	[1.05-1.08]	NR	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST003782	28171663	Huo D	2016-09-04	5e-6		1.13	[1.07-1.19]	0.6	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST90296719	38741014	Jia G	2024-05-13	2e-16		1.14	[1.11-1.18]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST005076	29058716	Milne RL	2017-10-23	2e-35		1.18	[1.15-1.21]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST003780	28171663	Huo D	2016-09-04	2e-10		1.3	[1.20-1.41]	0.6	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST90296721	38741014	Jia G	2024-05-13	3e-24		1.3	[1.23-1.36]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)	other_cancer	cancer	TERT	GCST002305	24325915	Purrington KS	2013-12-09	1e-7		1.24	[1.14-1.34]	NR	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)	other_cancer	cancer	TERT	GCST90296722	38741014	Jia G	2024-05-13	1e-23		1.38	[1.3-1.47]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer or ovarian cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90270342	36819030	Guo H	2023-02-03	5e-23				NR	5:1279675
+rs10069690	chr5	1279675		Chronic lymphocytic leukemia or systemic lupus erythematosus	other_cancer	leukemia	TERT	GCST008727	31407831	Din L	2019-08-13	5e-9		1.1573		NR	5:1279675
+rs10069690	chr5	1279675		Epithelial ovarian cancer	other_cancer	cancer	TERT	GCST004462	28346442	Phelan CM	2017-03-27	1e-7		1.0802581	[1.04978354993499-1.11161732010102]	0.259806	5:1279675
+rs10069690	chr5	1279675		Epithelial ovarian cancer	other_cancer	cancer	TERT	GCST002748	25581431	Kuchenbaecker KB	2015-01-12	9e-9		1.14	[1.10-1.19]	0.26	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST004347	28346443	Melin BS	2017-03-27	3e-66		1.45	1.39-1.51	0.276	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST005931	29743610	Ostrom QT	2018-05-09	8e-31		1.49	[1.39-1.60]	NR	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST005931	29743610	Ostrom QT	2018-05-09	5e-20		1.45	[1.34-1.57]	NR	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST003228	26424050	Kinnersley B	2015-10-01	4e-20		1.4	[1.30-1.50]	NR	5:1279675
+rs10069690	chr5	1279675		Hepatocellular carcinoma	other_cancer	carcinoma	TERT	GCST90809296	40823170	Ghouse J	2025-06-11	7e-13	0.2085 unit decrease		[0.15-0.27]	NR	5:1279675
+rs10069690	chr5	1279675		High-grade serous epithelial ovarian cancer	other_cancer	cancer	TERT	GCST90244168	38723632	Dareng EO	2024-05-07	1e-19		1.14	[1.11-1.17]	0.259	5:1279675
+rs10069690	chr5	1279675		High-grade serous ovarian cancer	other_cancer	cancer	TERT	GCST004480	28346442	Phelan CM	2017-03-27	5e-12		1.1310111	[1.09226786405932-1.17112854934655]	0.259806	5:1279675
+rs10069690	chr5	1279675		Invasive epithelial ovarian cancer	other_cancer	cancer	TERT	GCST004415	28346442	Phelan CM	2017-03-27	3e-8		1.0865872	[1.05501477967445-1.11910451351639]	0.259806	5:1279675
+rs10069690	chr5	1279675		Low-grade serous and serous borderline ovarian cancer	other_cancer	cancer	TERT	GCST004481	28346442	Phelan CM	2017-03-27	1e-9		1.2150546	[1.14168685260085-1.29313711208919]	0.259806	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST004348	28346443	Melin BS	2017-03-27	1e-16		1.27	1.20-1.34	0.276	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST005933	29743610	Ostrom QT	2018-05-09	1e-6		1.27	[1.15-1.40]	NR	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST005933	29743610	Ostrom QT	2018-05-09	2e-6		1.31	[1.17-1.46]	NR	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST003227	26424050	Kinnersley B	2015-10-01	8e-7		1.25	[1.15-1.37]	NR	5:1279675
+rs10069690	chr5	1279675		Prostate cancer	other_cancer	cancer	TERT	GCST90027060	34290314	Brandes N	2021-07-21	3e-10		0.88005	[0.84-0.92]	NR	5:1279675
+rs10069690	chr5	1279675		Prostate cancer	other_cancer	cancer	TERT	GCST90503487	38632662	Cheng Y	2024-04-17	5e-9		0.8689897		NR	5:1279675
+rs10069690	chr5	1279675		Prostate cancer (late onset)	other_cancer	cancer	TERT	GCST90503489	38632662	Cheng Y	2024-04-17	4e-8		0.87429273		NR	5:1279675
+rs10069690	chr5	1279675		Serous borderline ovarian cancer	other_cancer	cancer	TERT	GCST004479	28346442	Phelan CM	2017-03-27	4e-9		1.2546542	[1.16419555293272-1.35214154339342]	0.259806	5:1279675
+rs10069690	chr5	1279675		Serous invasive ovarian cancer	other_cancer	cancer	TERT	GCST004478	28346442	Phelan CM	2017-03-27	2e-12		1.1303236	[1.09267833241685-1.16926591871766]	0.259806	5:1279675
+rs10069690	chr5	1279675		Thyroid cancer	other_cancer	cancer	TERT	GCST004144	28195142	Gudmundsson J	2017-02-14	3e-7		1.2	1.12-1.29	0.275	5:1279675
+rs10069690	chr5	1279675		Thyroid cancer	other_cancer	cancer	TERT	GCST90627762	41644669	White SL	2026-02-05	2e-13	0.1973 unit increase		[0.14-0.25]	0.1942	5:1279675
+rs10069690	chr5	1279675		Uterine leiomyoma or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90134420	35803233	Wu X	2022-07-01	2e-42				NR	5:1279675
+rs10069690	chr5	1279675		Waist-to-hip ratio adjusted for body mass index or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90693329	40874817	Wang S	2025-07-01	4e-11				NR	5:1279675
+rs10069690	chr5	1279675		Waist-to-hip ratio or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90693325	40874817	Wang S	2025-07-01	3e-11				NR	5:1279675
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST007992	31089142	Law PJ	2019-05-14	1e-11		1.08	[1.06-1.10]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST007552	30529582	Lu Y	2018-12-06	6e-6		1.07	[1.04-1.10]	0.61	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST006131	29917119	Schmit SL	2018-06-16	3e-13		1.0869565	[1.06-1.12]	0.489	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST009869	31826910	Lu Y	2019-12-11	2e-6		1.07	[1.04-1.10]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90651043	37340002	Sato G	2023-06-20	2e-6		1.08		NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90129505	36539618	Fernandez-Rozadilla C	2022-12-20	6e-36	0.0822 unit increase		[0.069-0.095]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90435268	38872215	Tian J	2024-06-13	9e-29	0.0917 unit decrease			NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer or advanced adenoma	other_cancer	adenoma; cancer	TERT; MIR4457	GCST007856	30510241	Huyghe JR	2018-12-03	5e-25		1.09	[1.08-1.11]	0.4952	5:1296371
+rs36115365	chr5	1313127		Testicular cancer	testicular_cancer	testicular; cancer	CLPTM1L; MIR4457	GCST90011805	32887889	Rashkin SR	2020-09-04	2e-13		1.5412048	NR	NR	5:1313127
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST004713	28604732	Wang Z	2017-06-12	3e-34		1.55	1.44–1.66	0.18	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST004635	28604728	Litchfield K	2017-06-12	4e-37		1.48	[1.42–1.54]	0.21	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST002022	23666240	Ruark E	2013-05-12	2e-24		1.44	[1.30-1.61]	0.19	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST000414	19483681	Rapley EA	2009-05-31	1e-13		1.5	[1.28-1.75]	0.20	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST002023	23666239	Chung CC	2013-05-12	3e-7		1.62	[1.35-1.95]	NR	6:33574761
+rs17689040	chr7	40880714		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	SUGCT; LINC01450	GCST004635	28604728	Litchfield K	2017-06-12	3e-11		1.15	[1.10–1.19]	0.43	7:40880714
+rs755383	chr9	863635		Testicular cancer	testicular_cancer	testicular; cancer	DMRT1	GCST001067	21551455	Kanetsky PA	2011-05-06	9e-10		1.5	[1.32-1.71]	NR	9:863635
+rs755383	chr9	863635		Testicular germ cell cancer	testicular_cancer	testicular; cancer	DMRT1	GCST000701	20543847	Turnbull C	2010-06-13	1e-23		1.37	[1.21-1.55]	0.62	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST004713	28604732	Wang Z	2017-06-12	7e-41		1.49	1.41–1.58	0.61	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST002022	23666240	Ruark E	2013-05-12	2e-26		1.38	[1.25-1.52]	0.63	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST002023	23666239	Chung CC	2013-05-12	4e-7		1.5152	[1.3-1.79]	NR	9:863635
+rs55873183	chr9	878563		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST004713	28604732	Wang Z	2017-06-12	2e-23		1.89	1.67–2.14	0.07	9:878563
+rs17336718	chrX	154307767		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	TKTL1	GCST004713	28604732	Wang Z	2017-06-12	4e-8		1.41	1.25–1.59	0.05	X:154307767

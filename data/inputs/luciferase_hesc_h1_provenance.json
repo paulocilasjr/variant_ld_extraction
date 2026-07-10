@@ -1,0 +1,90 @@
+{
+  "official_metadata_checked_at": "2026-07-10",
+  "official_metadata_source": "ENCODE REST API and NCBI Variation Services",
+  "interaction_source_assertion": "Released ENCODE GRCh38 BEDPE loop files from H1 ChIA-PET experiments; not live SCREEN output and not generic Hi-C.",
+  "cell_line_scope": "Homo sapiens H1 from ENCODE experiment biosample summaries",
+  "assay_scope": "ChIA-PET loop calls for CTCF and POLR2A/RNAPII targets",
+  "genome_assembly": "GRCh38/hg38",
+  "encode_files": [
+    {
+      "accession": "ENCFF324UIT",
+      "experiment": "ENCSR782EKZ",
+      "experiment_description": "RNAPII ChIA-PET in H1",
+      "target": "POLR2A-human",
+      "file_format": "bedpe",
+      "output_type": "loops",
+      "assembly": "GRCh38",
+      "status": "released",
+      "date_created": "2021-08-31T22:05:27.311631+00:00",
+      "date_released": "2021-09-09",
+      "md5sum": "8e19c622625543857e013180430a0952",
+      "download_url": "https://www.encodeproject.org/files/ENCFF324UIT/@@download/ENCFF324UIT.bedpe.gz"
+    },
+    {
+      "accession": "ENCFF401IWZ",
+      "experiment": "ENCSR095SXC",
+      "experiment_description": "CTCF ChIA-PET in H1",
+      "target": "CTCF-human",
+      "file_format": "bedpe",
+      "output_type": "loops",
+      "assembly": "GRCh38",
+      "status": "released",
+      "date_created": "2021-08-31T21:02:11.193292+00:00",
+      "date_released": "2021-09-09",
+      "md5sum": "98354c097ec1bf32fac206656c620205",
+      "download_url": "https://www.encodeproject.org/files/ENCFF401IWZ/@@download/ENCFF401IWZ.bedpe.gz"
+    },
+    {
+      "accession": "ENCFF519OAV",
+      "experiment": "ENCSR095SXC",
+      "experiment_description": "CTCF ChIA-PET in H1",
+      "target": "CTCF-human",
+      "file_format": "bedpe",
+      "output_type": "loops",
+      "assembly": "GRCh38",
+      "status": "released",
+      "date_created": "2021-08-31T18:59:51.935837+00:00",
+      "date_released": "2021-09-09",
+      "md5sum": "c9c19b274a0bfa220a8b05f21fa3ea5f",
+      "download_url": "https://www.encodeproject.org/files/ENCFF519OAV/@@download/ENCFF519OAV.bedpe.gz"
+    },
+    {
+      "accession": "ENCFF753NSM",
+      "experiment": "ENCSR782EKZ",
+      "experiment_description": "RNAPII ChIA-PET in H1",
+      "target": "POLR2A-human",
+      "file_format": "bedpe",
+      "output_type": "loops",
+      "assembly": "GRCh38",
+      "status": "released",
+      "date_created": "2021-08-31T22:20:44.585938+00:00",
+      "date_released": "2021-09-09",
+      "md5sum": "32703213ba80272d9be3806578ead04d",
+      "download_url": "https://www.encodeproject.org/files/ENCFF753NSM/@@download/ENCFF753NSM.bedpe.gz"
+    }
+  ],
+  "resolved_snp_coordinates": [
+    {
+      "snp": "rs11946500",
+      "correction_note": "Corrects luciferase_03 input from rs1194500; rs1194500 resolves to chr10 and is incompatible with the chr4 region.",
+      "source": "NCBI dbSNP refsnp 11946500 and TECAC_GWAS_index_SNPs_OCT_2025",
+      "chrom": "chr4",
+      "start0": 103439329,
+      "end0": 103439330
+    },
+    {
+      "snp": "rs2390539",
+      "source": "NCBI dbSNP refsnp 2390539",
+      "chrom": "chr7",
+      "start0": 21504726,
+      "end0": 21504727
+    },
+    {
+      "snp": "rs5751084",
+      "source": "NCBI dbSNP refsnp 5751084",
+      "chrom": "chr22",
+      "start0": 41359100,
+      "end0": 41359101
+    }
+  ]
+}

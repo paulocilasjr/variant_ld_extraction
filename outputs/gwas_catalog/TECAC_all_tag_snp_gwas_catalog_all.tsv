@@ -1,0 +1,165 @@
+tag_snp	tag_chrom	tag_pos	source_region	trait_name	trait_category	matched_keywords	mapped_genes	accession_id	pubmed_id	author	publication_date	p_value	beta	or_value	ci	risk_frequency	association_locations
+rs78021484	chr1	9652117		Monocyte count (UKB data field 30130)	other		PIK3CD	GCST90468090	39789286	Loya H	2025-01-09	6e-28	0.020723455 unit decrease		[0.017-0.025]	0.38470054	1:9652117
+rs2251636	chr1	156233018		Clear cell renal cell carcinoma	other_cancer	carcinoma	PMF1-BGLAP; PMF1	GCST90320055	38671320	Purdue MP	2024-04-26	2e-19		1.13	[1.1-1.16]	0.38	1:156233018
+rs2251636	chr1	156233018		Small vessel stroke	other		PMF1-BGLAP; PMF1	GCST90104537	36180795	Mishra A	2022-09-30	3e-10		1.09	[1.06-1.12]	0.62	1:156233018
+rs3736922	chr10	103090875		Height (baseline)	other		NT5C2	GCST90565843	40374629	Schoeler T	2025-05-15	7e-23	0.0127369 unit decrease		[0.01-0.015]	0.589381	10:103090875
+rs3736922	chr10	103090875		Pulse pressure	other		NT5C2	GCST90301701	38459180	Yang ML	2024-03-08	3e-14	0.02 unit increase		[0.016-0.024]	NR	10:103090875
+rs61408740	chr10	124586043		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	LHPP	GCST004713	28604732	Wang Z	2017-06-12	2e-8		1.65	1.38–1.96	0.02	10:124586043
+rs11237490	chr11	78424183		Aspartate aminotransferase levels	other		LINC02728	GCST90662863	40436827	Jee YH	2025-05-28	3e-10	0.0214605 unit decrease		[0.015-0.028]	0.412795	11:78424183
+rs11237490	chr11	78424183		Creatinine levels	other		LINC02728	GCST90662902	40436827	Jee YH	2025-05-28	4e-38	0.0176 unit decrease		[0.015-0.02]	NR	11:78424183
+rs11237490	chr11	78424183		Creatinine levels	other		LINC02728	GCST90501105	41044249	Zoodsma M	2025-10-03	3e-17	0.02 mmol/L decrease		[0.02-0.02]	NR	11:78424183
+rs7315956	chr12	70170085		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	PRANCR	GCST004635	28604728	Litchfield K	2017-06-12	9e-10		1.13	[1.08–1.18]	0.34	12:70170085
+rs11071896	chr15	66528912		Body mass index	other		ZWILCH	GCST008129	29273807	Turcot V	2017-12-22	6e-10	0.0125 unit increase		[0.0086-0.0164]	0.7501	15:66528912
+rs11071896	chr15	66528912		Body mass index	other		ZWILCH	GCST90255621	36581621	Huang J	2022-12-29	5e-18	0.0131 unit decrease		[0.01-0.016]	NR	15:66528912
+rs11071896	chr15	66528912		Calcium levels	other		ZWILCH	GCST012398	33887147	Young WJ	2021-04-22	1e-9	0.001657 mmol/L increase		[0.0011-0.0022]	0.25	15:66528912
+rs11071896	chr15	66528912		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZWILCH	GCST004635	28604728	Litchfield K	2017-06-12	8e-13		1.19	[1.14–1.25]	0.26	15:66528912
+rs7189510	chr16	11825236		Red blood cell count	other		BCAR4	GCST90002363	32888493	Chen MH	2020-09-01	4e-11	0.012658 SD unit decrease		[0.0089-0.0164]	0.597612	16:11825236
+rs8052492	chr16	50065836		mean corpuscular volume (MCV, mean, inv-norm transformed)	other		HEATR3-AS1	GCST90475470	39024449	Verma A	2024-07-19	5e-21	0.02786 unit decrease		[0.022-0.034]	0.7126	16:50065836
+rs8052492	chr16	50065836		mean corpuscular volume (MCV, minimum, inv-norm transformed)	other		HEATR3-AS1	GCST90475474	39024449	Verma A	2024-07-19	3e-22	0.02907 unit decrease		[0.023-0.035]	0.7125	16:50065836
+rs8052492	chr16	50065836		red cell diameter width (RDW, minimum, inv-norm transformed)	other		HEATR3-AS1	GCST90480673	39024449	Verma A	2024-07-19	2e-19	0.02705 unit increase		[0.021-0.033]	0.6427	16:50065836
+rs3751674	chr16	88467563		Linoleic acid to total fatty acids percentage	other		ZFPM1	GCST90502025	40545721	Sun Y	2025-06-21	4e-10				NR	16:88467563
+rs3751674	chr16	88467563		Omega-6 fatty acids to total fatty acids percentage	other		ZFPM1	GCST90502129	40545721	Sun Y	2025-06-21	1e-9				NR	16:88467563
+rs200403	chr17	46703777		Omega-3 fatty acid levels	other		NSF	GCST90502437	40545721	Sun Y	2025-06-21	6e-9				NR	17:46703777
+rs200403	chr17	46703777		Omega-3 fatty acids to Omega-6 fatty acids ratio	other		NSF	GCST90502411	40545721	Sun Y	2025-06-21	2e-11				NR	17:46703777
+rs200403	chr17	46703777		Omega-3 fatty acids to total fatty acids percentage	other		NSF	GCST90502463	40545721	Sun Y	2025-06-21	4e-12				NR	17:46703777
+rs11077397	chr17	78800381		Height	other		USP36	GCST007841	30595370	Kichaev G	2018-12-27	3e-19				NR	17:78800381
+rs11077397	chr17	78800381		Height (baseline)	other		USP36	GCST90565843	40374629	Schoeler T	2025-05-15	8e-20	0.0116328 unit increase		[0.0091-0.0141]	0.475375	17:78800381
+rs9966612	chr18	649311		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	CLUL1; TYMSOS	GCST004635	28604728	Litchfield K	2017-06-12	4e-10		1.17	[1.12–1.23]	0.32	18:649311
+rs3744962	chr18	674320		Thyroid cancer	other_cancer	cancer	ENOSF1; TYMS	GCST90245888	36508215	Feng X	2022-12-01	3e-7	0.32 unit increase		[0.2-0.44]	NR	18:674320
+rs61193264	chr19	23651293		Cortical surface area	other		ZNF675	GCST90091060	34560273	Shadrin AA	2021-09-21	2e-9				0.2963	19:23651293
+rs61193264	chr19	23651293		Testicular cancer	testicular_cancer	testicular; cancer	ZNF675	GCST90011805	32887889	Rashkin SR	2020-09-04	4e-7		1.37791	NR	NR	19:23651293
+rs61193264	chr19	23651293		Vertex-wise cortical surface area	other		ZNF675	GCST90095130	34910505	van der Meer D	2021-12-15	2e-8	5.63 z score increase			0.29	19:23651293
+rs61193264	chr19	23651293		Vertex-wise sulcal depth	other		ZNF675	GCST90095129	34910505	van der Meer D	2021-12-15	6e-9	5.83 z score increase			0.29	19:23651293
+rs34601376	chr19	23868026		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	RPSA2	GCST004713	28604732	Wang Z	2017-06-12	2e-11		1.29	1.20–1.39	0.195	19:23868026
+rs2463046	chr19	24193086		CNDP1/EGFR protein level ratio	other		ERVK-28; LINC03085	GCST90314146	38412862	Suhre K	2024-02-20	7e-213	0.281918 decrease		[0.26-0.3]	NR	19:24193086
+rs2463046	chr19	24193086		CNDP1/F9 protein level ratio	other		ERVK-28; LINC03085	GCST90314147	38412862	Suhre K	2024-02-20	3e-202	0.270843 decrease		[0.25-0.29]	NR	19:24193086
+rs2241024	chr19	27766485		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	LINC00662	GCST004635	28604728	Litchfield K	2017-06-12	1e-16		1.23	[1.16–1.29]	0.8	19:27766485
+rs62119681	chr19	39348314		Telomere length (principal component 1)	other		SAMD4B	GCST90435144	39192095	Burren OS	2024-08-27	3e-10	0.0188732 unit decrease		[0.013-0.025]	0.870493	19:39348314
+rs7581030	chr2	71345325		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZNF638	GCST004635	28604728	Litchfield K	2017-06-12	2e-11		1.17	[1.12–1.23]	0.24	2:71345325
+rs6076623	chr20	4156024		Lymphocyte count	other		SMOX	GCST90018962	34594039	Sakaue S	2021-09-30	2e-9	0.0135 unit increase		[0.0092-0.0178]	NR	20:4156024
+rs8131458	chr21	46274798		Monocyte percentage of white cells	other		MCM3AP; MCM3AP-AS1	GCST90002394	32888494	Vuckovic D	2020-09-01	3e-12	0.015946185 unit decrease		[0.011-0.02]	0.395498	21:46274798
+rs131409	chr22	23548920		HOMA-B (corrected for HOMA-IR)	other		IGLL1; PCAT14	GCST010724	30369944	Balakrishnan P	2018-10-12	3e-7	19.82 unit increase			0.27	22:23548920
+rs11090039	chr22	41100796		Experiencing mood swings	other		EP300	GCST006944	29500382	Nagel M	2018-03-02	2e-10	6.38 z score increase			0.283315	22:41100796
+rs11090039	chr22	41100796		Insomnia	other		EP300	GCST007988	30804565	Jansen PR	2019-02-25	2e-9		1.04	[1.03-1.05]	0.2871	22:41100796
+rs11090039	chr22	41100796		Insomnia	other		EP300	GCST90131903	35835914	Watanabe K	2022-07-14	7e-11	0.009 unit increase		[0.007-0.011]	NR	22:41100796
+rs11090039	chr22	41100796		Irritable bowel syndrome (MTAG)	other		EP300	GCST90277988	37085903	Alemany S	2023-04-21	3e-13	0.012 unit increase		[0.0081-0.0159]	NR	22:41100796
+rs132917	chr22	41410924		Albumin levels	other		TOB2; TEF	GCST90662901	40436827	Jee YH	2025-05-28	4e-10	0.0168 unit decrease		[0.012-0.022]	NR	22:41410924
+rs7439869	chr4	94252628		QT interval	other		SMARCAD1	GCST010919	29874175	Bihlmeyer NA	2018-01-01	8e-7	0.41 ms increase		[0.25-0.57]	0.378	4:94252628
+rs4862848	chr4	188000286		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	ZFP42	GCST004635	28604728	Litchfield K	2017-06-12	2e-12		1.21	[1.16–1.27]	0.35	4:188000286
+rs10069690	chr5	1279675		Albumin levels	other		TERT	GCST90092807	35213538	Richardson TG	2022-02-25	4e-8	0.0258387 unit decrease		[0.017-0.035]	0.741048	5:1279675
+rs10069690	chr5	1279675		Aspartate aminotransferase levels	other		TERT	GCST90662897	40436827	Jee YH	2025-05-28	3e-9	0.011 unit decrease		[0.0075-0.0145]	NR	5:1279675
+rs10069690	chr5	1279675		Benign nodular goiter	other		TERT	GCST90627741	41644669	White SL	2026-02-05	3e-21	0.0692 unit increase		[0.055-0.084]	0.3166	5:1279675
+rs10069690	chr5	1279675		Biological Sibling:  Cancer, Prostate	other_cancer	cancer	TERT	GCST90476368	39024449	Verma A	2024-07-19	2e-11	0.1093 unit increase		[0.077-0.141]	0.7432	5:1279675
+rs10069690	chr5	1279675		Breast Cancer in BRCA1 mutation carriers	other_cancer	cancer	TERT	GCST005075	29058716	Milne RL	2017-10-23	4e-16		1.18	[1.14-1.23]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001298	22037553	Haiman CA	2011-10-30	1e-10		1.18	[1.13-1.25]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST004988	29059683	Michailidou K	2017-10-23	8e-17		1.06 (Oncoarray)	[1.04-1.08]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST007236	25751625	Michailidou K	2015-04-01	2e-8		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST004950	25751625	Michailidou K	2015-04-01	1e-8		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001930	23535733	Garcia-Closas M	2013-04-01	5e-12		1.15	[1.11-1.20]	0.321	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST001937	23535729	Michailidou K	2013-04-01	7e-9		1.06	[1.04-1.09]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST90090980	32139696	Shu X	2020-03-05	2e-20		1.06	[1.05-1.08]	NR	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST003782	28171663	Huo D	2016-09-04	5e-6		1.13	[1.07-1.19]	0.6	5:1279675
+rs10069690	chr5	1279675		Breast cancer	other_cancer	cancer	TERT	GCST90296719	38741014	Jia G	2024-05-13	2e-16		1.14	[1.11-1.18]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST005076	29058716	Milne RL	2017-10-23	2e-35		1.18	[1.15-1.21]	0.26	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST003780	28171663	Huo D	2016-09-04	2e-10		1.3	[1.20-1.41]	0.6	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative)	other_cancer	cancer	TERT	GCST90296721	38741014	Jia G	2024-05-13	3e-24		1.3	[1.23-1.36]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)	other_cancer	cancer	TERT	GCST002305	24325915	Purrington KS	2013-12-09	1e-7		1.24	[1.14-1.34]	NR	5:1279675
+rs10069690	chr5	1279675		Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)	other_cancer	cancer	TERT	GCST90296722	38741014	Jia G	2024-05-13	1e-23		1.38	[1.3-1.47]	0.59	5:1279675
+rs10069690	chr5	1279675		Breast cancer or ovarian cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90270342	36819030	Guo H	2023-02-03	5e-23				NR	5:1279675
+rs10069690	chr5	1279675		Chronic lymphocytic leukemia or systemic lupus erythematosus	other_cancer	leukemia	TERT	GCST008727	31407831	Din L	2019-08-13	5e-9		1.1573		NR	5:1279675
+rs10069690	chr5	1279675		Diastolic blood pressure	other		TERT	GCST90132904	35762941	Plotnikov D	2022-06-01	2e-9	0.1558 unit increase		[0.11-0.21]	NR	5:1279675
+rs10069690	chr5	1279675		Diastolic blood pressure	other		TERT	GCST90310295	38689001	Keaton JM	2024-04-30	1e-16	0.1475 unit increase		[0.11-0.18]	NR	5:1279675
+rs10069690	chr5	1279675		Diastolic blood pressure	other		TERT	GCST90662909	40436827	Jee YH	2025-05-28	2e-15	0.0148 unit increase		[0.011-0.019]	NR	5:1279675
+rs10069690	chr5	1279675		Diastolic blood pressure (MTAG)	other		TERT	GCST90449057	39537608	Koskeridis F	2024-11-13	7e-14	0.014792833 unit increase		[0.011-0.019]	NR	5:1279675
+rs10069690	chr5	1279675		EDA2R protein levels	other		TERT	GCST90469067	39789286	Loya H	2025-01-09	1e-15	0.04003944 unit decrease		[0.03-0.051]	0.2598806	5:1279675
+rs10069690	chr5	1279675		Epithelial ovarian cancer	other_cancer	cancer	TERT	GCST004462	28346442	Phelan CM	2017-03-27	1e-7		1.0802581	[1.04978354993499-1.11161732010102]	0.259806	5:1279675
+rs10069690	chr5	1279675		Epithelial ovarian cancer	other_cancer	cancer	TERT	GCST002748	25581431	Kuchenbaecker KB	2015-01-12	9e-9		1.14	[1.10-1.19]	0.26	5:1279675
+rs10069690	chr5	1279675		Glioblastoma	other		TERT	GCST004349	28346443	Melin BS	2017-03-27	8e-74		1.61	1.53-1.69	0.276	5:1279675
+rs10069690	chr5	1279675		Glioblastoma	other		TERT	GCST005932	29743610	Ostrom QT	2018-05-09	6e-22		1.6	[1.45-1.76]	NR	5:1279675
+rs10069690	chr5	1279675		Glioblastoma	other		TERT	GCST005932	29743610	Ostrom QT	2018-05-09	3e-35		1.64	[1.52-1.78]	NR	5:1279675
+rs10069690	chr5	1279675		Glioblastoma (age-stratified)	other		TERT	GCST006480	30152087	Ostrom QT	2018-08-27	5e-31		1.72	[1.57-1.89]	NR	5:1279675
+rs10069690	chr5	1279675		Glioblastoma (age-stratified)	other		TERT	GCST006480	30152087	Ostrom QT	2018-08-27	4e-18		1.51	[1.38-1.66]	NR	5:1279675
+rs10069690	chr5	1279675		Glioblastoma (age-stratified)	other		TERT	GCST006480	30152087	Ostrom QT	2018-08-27	4e-33		1.78	[1.62-1.95]	NR	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST004347	28346443	Melin BS	2017-03-27	3e-66		1.45	1.39-1.51	0.276	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST005931	29743610	Ostrom QT	2018-05-09	8e-31		1.49	[1.39-1.60]	NR	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST005931	29743610	Ostrom QT	2018-05-09	5e-20		1.45	[1.34-1.57]	NR	5:1279675
+rs10069690	chr5	1279675		Glioma	other_cancer	glioma	TERT	GCST003228	26424050	Kinnersley B	2015-10-01	4e-20		1.4	[1.30-1.50]	NR	5:1279675
+rs10069690	chr5	1279675		Hepatocellular carcinoma	other_cancer	carcinoma	TERT	GCST90809296	40823170	Ghouse J	2025-06-11	7e-13	0.2085 unit decrease		[0.15-0.27]	NR	5:1279675
+rs10069690	chr5	1279675		High-grade serous epithelial ovarian cancer	other_cancer	cancer	TERT	GCST90244168	38723632	Dareng EO	2024-05-07	1e-19		1.14	[1.11-1.17]	0.259	5:1279675
+rs10069690	chr5	1279675		High-grade serous ovarian cancer	other_cancer	cancer	TERT	GCST004480	28346442	Phelan CM	2017-03-27	5e-12		1.1310111	[1.09226786405932-1.17112854934655]	0.259806	5:1279675
+rs10069690	chr5	1279675		ICD10 D25: Leiomyoma of uterus	other		TERT	GCST90454204	40069456	Pujol Gualdo N	2025-03-11	4e-38		0.9	[0.88-0.91]	NR	5:1279675
+rs10069690	chr5	1279675		Invasive epithelial ovarian cancer	other_cancer	cancer	TERT	GCST004415	28346442	Phelan CM	2017-03-27	3e-8		1.0865872	[1.05501477967445-1.11910451351639]	0.259806	5:1279675
+rs10069690	chr5	1279675		Lipoma (PheCode 214)	other		TERT	GCST90479841	39024449	Verma A	2024-07-19	4e-21	0.1027 unit decrease		[0.084-0.122]	0.6803	5:1279675
+rs10069690	chr5	1279675		Low-grade serous and serous borderline ovarian cancer	other_cancer	cancer	TERT	GCST004481	28346442	Phelan CM	2017-03-27	1e-9		1.2150546	[1.14168685260085-1.29313711208919]	0.259806	5:1279675
+rs10069690	chr5	1279675		Mean arterial pressure	other		TERT	GCST90018963	34594039	Sakaue S	2021-09-30	5e-9	0.0131 unit increase		[0.0088-0.0174]	NR	5:1279675
+rs10069690	chr5	1279675		Non-albumin protein levels	other		TERT	GCST90019515	33462484	Sinnott-Armstrong N	2021-01-18	4e-31	0.0329 unit decrease		[0.027-0.038]	NR	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST004348	28346443	Melin BS	2017-03-27	1e-16		1.27	1.20-1.34	0.276	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST005933	29743610	Ostrom QT	2018-05-09	1e-6		1.27	[1.15-1.40]	NR	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST005933	29743610	Ostrom QT	2018-05-09	2e-6		1.31	[1.17-1.46]	NR	5:1279675
+rs10069690	chr5	1279675		Non-glioblastoma glioma	other_cancer	glioma	TERT	GCST003227	26424050	Kinnersley B	2015-10-01	8e-7		1.25	[1.15-1.37]	NR	5:1279675
+rs10069690	chr5	1279675		Postinflammatory pulmonary fibrosis (PheCode 502)	other		TERT	GCST90480257	39024449	Verma A	2024-07-19	3e-12	0.1403 unit increase		[0.096-0.185]	0.6796	5:1279675
+rs10069690	chr5	1279675		Prostate cancer	other_cancer	cancer	TERT	GCST90027060	34290314	Brandes N	2021-07-21	3e-10		0.88005	[0.84-0.92]	NR	5:1279675
+rs10069690	chr5	1279675		Prostate cancer	other_cancer	cancer	TERT	GCST90503487	38632662	Cheng Y	2024-04-17	5e-9		0.8689897		NR	5:1279675
+rs10069690	chr5	1279675		Prostate cancer (late onset)	other_cancer	cancer	TERT	GCST90503489	38632662	Cheng Y	2024-04-17	4e-8		0.87429273		NR	5:1279675
+rs10069690	chr5	1279675		Pulmonary fibrosis	other		TERT	GCST90018908	34594039	Sakaue S	2021-09-30	2e-14	0.306 unit decrease		[0.23-0.38]	NR	5:1279675
+rs10069690	chr5	1279675		Pulse pressure	other		TERT	GCST90310296	38689001	Keaton JM	2024-04-30	3e-10	0.1291 unit increase		[0.089-0.169]	NR	5:1279675
+rs10069690	chr5	1279675		Serous borderline ovarian cancer	other_cancer	cancer	TERT	GCST004479	28346442	Phelan CM	2017-03-27	4e-9		1.2546542	[1.16419555293272-1.35214154339342]	0.259806	5:1279675
+rs10069690	chr5	1279675		Serous invasive ovarian cancer	other_cancer	cancer	TERT	GCST004478	28346442	Phelan CM	2017-03-27	2e-12		1.1303236	[1.09267833241685-1.16926591871766]	0.259806	5:1279675
+rs10069690	chr5	1279675		Serum total protein levels	other		TERT	GCST90019522	33462484	Sinnott-Armstrong N	2021-01-18	3e-13	0.0206 unit decrease		[0.015-0.026]	NR	5:1279675
+rs10069690	chr5	1279675		Serum total protein levels	other		TERT	GCST90018976	34594039	Sakaue S	2021-09-30	2e-15	0.0196 unit decrease		[0.015-0.025]	NR	5:1279675
+rs10069690	chr5	1279675		Sex hormone-binding globulin levels	other		TERT	GCST90012109	32042192	Ruth KS	2020-02-10	9e-7	0.00662534 unit increase		[0.0039-0.0094]	0.741932	5:1279675
+rs10069690	chr5	1279675		Sex hormone-binding globulin levels	other		TERT	GCST90019518	33462484	Sinnott-Armstrong N	2021-01-18	2e-9	0.017 unit decrease		[0.012-0.022]	NR	5:1279675
+rs10069690	chr5	1279675		Sex hormone-binding globulin levels adjusted for BMI	other		TERT	GCST90012108	32042192	Ruth KS	2020-02-10	4e-8	0.00704007 unit increase		[0.0045-0.0096]	0.741932	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST006624	30224653	Evangelou E	2018-09-17	4e-21	0.2735 mmHg increase		[0.22-0.33]	0.2591	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST007087	30595370	Kichaev G	2018-12-27	3e-12				NR	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST90132903	35762941	Plotnikov D	2022-06-01	2e-13	0.3331 unit increase		[0.24-0.42]	NR	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST90018972	34594039	Sakaue S	2021-09-30	2e-9	0.0133 unit increase		[0.009-0.0176]	NR	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST90310294	38689001	Keaton JM	2024-04-30	4e-22	0.2762 unit increase		[0.22-0.33]	NR	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure	other		TERT	GCST90662908	40436827	Jee YH	2025-05-28	4e-15	0.0142 unit increase		[0.011-0.018]	NR	5:1279675
+rs10069690	chr5	1279675		Systolic blood pressure (MTAG)	other		TERT	GCST90449056	39537608	Koskeridis F	2024-11-13	2e-16	0.016315775 unit increase		[0.012-0.02]	NR	5:1279675
+rs10069690	chr5	1279675		Thyroid cancer	other_cancer	cancer	TERT	GCST004144	28195142	Gudmundsson J	2017-02-14	3e-7		1.2	1.12-1.29	0.275	5:1279675
+rs10069690	chr5	1279675		Thyroid cancer	other_cancer	cancer	TERT	GCST90627762	41644669	White SL	2026-02-05	2e-13	0.1973 unit increase		[0.14-0.25]	0.1942	5:1279675
+rs10069690	chr5	1279675		Uterine fibroids	other		TERT	GCST006462	30194396	Rafnar T	2018-09-07	4e-18		1.12	[1.1-1.15]	0.25878	5:1279675
+rs10069690	chr5	1279675		Uterine fibroids	other		TERT	GCST90018934	34594039	Sakaue S	2021-09-30	2e-34	0.1226 unit increase		[0.1-0.14]	NR	5:1279675
+rs10069690	chr5	1279675		Uterine fibroids	other		TERT	GCST90461957	40050615	Kim J	2025-03-06	3e-48	0.0991 unit increase		[0.086-0.112]	NR	5:1279675
+rs10069690	chr5	1279675		Uterine fibroids	other		TERT	GCST90461958	40050615	Kim J	2025-03-06	7e-44	0.1069 unit increase		[0.092-0.122]	NR	5:1279675
+rs10069690	chr5	1279675		Uterine fibroids	other		TERT	GCST90693145	37544299	Kiewa J	2023-08-04	8e-42				NR	5:1279675
+rs10069690	chr5	1279675		Uterine leiomyoma or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90134420	35803233	Wu X	2022-07-01	2e-42				NR	5:1279675
+rs10069690	chr5	1279675		Uterine leiomyomata	other		TERT	GCST90239856	36726022	Sliz E	2023-02-01	2e-34		1.12	[1.1-1.14]	NR	5:1279675
+rs10069690	chr5	1279675		Waist-to-hip ratio adjusted for body mass index or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90693329	40874817	Wang S	2025-07-01	4e-11				NR	5:1279675
+rs10069690	chr5	1279675		Waist-to-hip ratio or breast cancer (pleiotropy)	other_cancer	cancer	TERT	GCST90693325	40874817	Wang S	2025-07-01	3e-11				NR	5:1279675
+rs10069690	chr5	1279675		systolic blood pressure (SBP, mean, inv-normal transformed)	other		TERT	GCST90480706	39024449	Verma A	2024-07-19	3e-14	0.02142 unit decrease		[0.016-0.027]	0.6797	5:1279675
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST007992	31089142	Law PJ	2019-05-14	1e-11		1.08	[1.06-1.10]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST007552	30529582	Lu Y	2018-12-06	6e-6		1.07	[1.04-1.10]	0.61	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST006131	29917119	Schmit SL	2018-06-16	3e-13		1.0869565	[1.06-1.12]	0.489	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST009869	31826910	Lu Y	2019-12-11	2e-6		1.07	[1.04-1.10]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90651043	37340002	Sato G	2023-06-20	2e-6		1.08		NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90129505	36539618	Fernandez-Rozadilla C	2022-12-20	6e-36	0.0822 unit increase		[0.069-0.095]	NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer	other_cancer	cancer	TERT; MIR4457	GCST90435268	38872215	Tian J	2024-06-13	9e-29	0.0917 unit decrease			NR	5:1296371
+rs2735940	chr5	1296371		Colorectal cancer or advanced adenoma	other_cancer	adenoma; cancer	TERT; MIR4457	GCST007856	30510241	Huyghe JR	2018-12-03	5e-25		1.09	[1.08-1.11]	0.4952	5:1296371
+rs2735940	chr5	1296371		Solar lentigines (non-facial)	other		TERT; MIR4457	GCST90281274	38029837	Deecke L	2023-11-27	1e-16	0.33 unit decrease		[0.25-0.41]	0.484462	5:1296371
+rs36115365	chr5	1313127		Eosinophil count	other		CLPTM1L; MIR4457	GCST007065	30595370	Kichaev G	2018-12-27	2e-11				NR	5:1313127
+rs36115365	chr5	1313127		Eosinophil count	other		CLPTM1L; MIR4457	GCST90002298	32888493	Chen MH	2020-09-01	2e-11	0.016468 SD unit increase		[0.012-0.021]	0.205518	5:1313127
+rs36115365	chr5	1313127		Testicular cancer	testicular_cancer	testicular; cancer	CLPTM1L; MIR4457	GCST90011805	32887889	Rashkin SR	2020-09-04	2e-13		1.5412048	NR	NR	5:1313127
+rs9277768	chr6	33130792		Hashimoto thyroiditis	other		HLA-DPB2; HLA-DPA3	GCST90018635	34594039	Sakaue S	2021-09-30	4e-10	0.4089919 unit increase		[0.28-0.54]	0.335380575	6:33130792
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST004713	28604732	Wang Z	2017-06-12	3e-34		1.55	1.44–1.66	0.18	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST004635	28604728	Litchfield K	2017-06-12	4e-37		1.48	[1.42–1.54]	0.21	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST002022	23666240	Ruark E	2013-05-12	2e-24		1.44	[1.30-1.61]	0.19	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST000414	19483681	Rapley EA	2009-05-31	1e-13		1.5	[1.28-1.75]	0.20	6:33574761
+rs210138	chr6	33574761		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	BAK1	GCST002023	23666239	Chung CC	2013-05-12	3e-7		1.62	[1.35-1.95]	NR	6:33574761
+rs17689040	chr7	40880714		Hematocrit	other		SUGCT; LINC01450	GCST90662904	40436827	Jee YH	2025-05-28	2e-10	0.01 unit decrease		[0.0069-0.0131]	NR	7:40880714
+rs17689040	chr7	40880714		Hemoglobin levels	other		SUGCT; LINC01450	GCST90662903	40436827	Jee YH	2025-05-28	7e-11	0.01 unit decrease		[0.0071-0.0129]	NR	7:40880714
+rs17689040	chr7	40880714		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	SUGCT; LINC01450	GCST004635	28604728	Litchfield K	2017-06-12	3e-11		1.15	[1.10–1.19]	0.43	7:40880714
+rs7789337	chr7	139104049		Eosinophil count	other		ZC3HAV1	GCST90002302	32888493	Chen MH	2020-09-01	3e-13				0.26833	7:139104049
+rs7789337	chr7	139104049		Eosinophil count	other		ZC3HAV1	GCST90002298	32888493	Chen MH	2020-09-01	1e-14	0.018512 SD unit increase		[0.014-0.023]	0.217876	7:139104049
+rs7789337	chr7	139104049		Eosinophill percentage (UKB data field 30210)	other		ZC3HAV1	GCST90468069	39789286	Loya H	2025-01-09	6e-18	0.020236276 unit increase		[0.015-0.025]	0.2183723	7:139104049
+rs755383	chr9	863635		Testicular cancer	testicular_cancer	testicular; cancer	DMRT1	GCST001067	21551455	Kanetsky PA	2011-05-06	9e-10		1.5	[1.32-1.71]	NR	9:863635
+rs755383	chr9	863635		Testicular germ cell cancer	testicular_cancer	testicular; cancer	DMRT1	GCST000701	20543847	Turnbull C	2010-06-13	1e-23		1.37	[1.21-1.55]	0.62	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST004713	28604732	Wang Z	2017-06-12	7e-41		1.49	1.41–1.58	0.61	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST002022	23666240	Ruark E	2013-05-12	2e-26		1.38	[1.25-1.52]	0.63	9:863635
+rs755383	chr9	863635		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST002023	23666239	Chung CC	2013-05-12	4e-7		1.5152	[1.3-1.79]	NR	9:863635
+rs55873183	chr9	878563		Age at natural menopause	other		DMRT1	GCST90320256	34349265	Ruth KS	2021-08-04	1e-17	0.1699 unit increase		[0.13-0.21]	NR	9:878563
+rs55873183	chr9	878563		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	DMRT1	GCST004713	28604732	Wang Z	2017-06-12	2e-23		1.89	1.67–2.14	0.07	9:878563
+rs10818964	chr9	124428061		neutrophil (absolute count, mean, inv-norm transformed)	other		PSMB7; ADGRD2	GCST90479711	39024449	Verma A	2024-07-19	3e-15	0.02757 unit increase		[0.021-0.034]	0.4496	9:124428061
+rs10818964	chr9	124428061		neutrophil (absolute count, minimum, inv-norm transformed)	other		PSMB7; ADGRD2	GCST90479712	39024449	Verma A	2024-07-19	3e-12	0.02395 unit increase		[0.017-0.031]	0.4502	9:124428061
+rs17336718	chrX	154307767		Testicular germ cell tumor	testicular_cancer	germ cell tumor; testicular; tumor	TKTL1	GCST004713	28604732	Wang Z	2017-06-12	4e-8		1.41	1.25–1.59	0.05	X:154307767
